@@ -1,0 +1,390 @@
+geo_type,code,name,all_death,all_rate,covid_death,covid_rate
+Unitary Authority,E06000002,Middlesbrough,289,256,89,79
+Unitary Authority,E06000003,Redcar and Cleveland,215,142.6,40,26.5
+Unitary Authority,E06000004,Stockton-on-Tees,297,167,38,21
+Unitary Authority,E06000005,Darlington,169,151.5,26,22.9
+Unitary Authority,E06000006,Halton,199,178.4,52,46.6
+Unitary Authority,E06000007,Warrington,347,182.9,73,39.2
+Unitary Authority,E06000008,Blackburn with Darwen,207,195.5,30,29.3
+Unitary Authority,E06000009,Blackpool,276,191.2,33,22.7
+Unitary Authority,E06000010,"Kingston upon Hull, City of",340,175.1,32,16.7
+Unitary Authority,E06000011,East Riding of Yorkshire,586,138.2,60,13.9
+Unitary Authority,E06000012,North East Lincolnshire,219,130.7,17,9.8
+Unitary Authority,E06000013,North Lincolnshire,243,136.2,12,6.6
+Unitary Authority,E06000014,York,286,139.7,43,21.1
+Unitary Authority,E06000015,Derby,424,185.5,143,63
+Unitary Authority,E06000016,Leicester,420,185.4,88,38.6
+Unitary Authority,E06000017,Rutland,59,120.7,3,7.1
+Unitary Authority,E06000018,Nottingham,350,168.8,76,36.8
+Unitary Authority,E06000019,"Herefordshire, County of",293,125.3,27,11.1
+Unitary Authority,E06000020,Telford and Wrekin,258,179.4,35,22.8
+Unitary Authority,E06000021,Stoke-on-Trent,372,177,45,21.2
+Unitary Authority,E06000022,Bath and North East Somerset,272,138.5,43,21.6
+Unitary Authority,E06000023,"Bristol, City of",502,152.4,92,28.2
+Unitary Authority,E06000024,North Somerset,292,110.6,26,10
+Unitary Authority,E06000025,South Gloucestershire,360,129.8,68,24.1
+Unitary Authority,E06000026,Plymouth,343,139.1,25,10.2
+Unitary Authority,E06000027,Torbay,256,138.1,23,12.2
+Unitary Authority,E06000030,Swindon,322,176.3,64,35.3
+Unitary Authority,E06000031,Peterborough,206,133.5,22,14.4
+Unitary Authority,E06000032,Luton,303,205.8,105,71.7
+Unitary Authority,E06000033,Southend-on-Sea,329,171.6,80,42.9
+Unitary Authority,E06000034,Thurrock,234,200.1,54,45.7
+Unitary Authority,E06000035,Medway,331,152.9,80,37.1
+Unitary Authority,E06000036,Bracknell Forest,117,128.8,26,29
+Unitary Authority,E06000037,West Berkshire,212,141.2,55,37.1
+Unitary Authority,E06000038,Reading,219,197.2,57,51.5
+Unitary Authority,E06000039,Slough,187,226,58,69.9
+Unitary Authority,E06000040,Windsor and Maidenhead,264,164.1,61,38.8
+Unitary Authority,E06000041,Wokingham,200,128.6,50,32
+Unitary Authority,E06000042,Milton Keynes,356,196.1,97,53.8
+Unitary Authority,E06000043,Brighton and Hove,329,149.9,59,27.1
+Unitary Authority,E06000044,Portsmouth,273,167.5,48,29.6
+Unitary Authority,E06000045,Southampton,287,157.4,61,33.1
+Unitary Authority,E06000046,Isle of Wight,197,99.9,17,8.6
+Unitary Authority,E06000047,County Durham,961,186.1,226,43.1
+Unitary Authority,E06000049,Cheshire East,717,159.5,158,35.3
+Unitary Authority,E06000050,Cheshire West and Chester,572,154.1,116,31
+Unitary Authority,E06000051,Shropshire,523,134.2,58,14.9
+Unitary Authority,E06000052,Cornwall,858,125.4,94,13.9
+Unitary Authority,E06000053,Isles of Scilly,2,:,0,0
+Unitary Authority,E06000054,Wiltshire,762,138.8,120,21.7
+Unitary Authority,E06000055,Bedford,231,142.4,51,31.8
+Unitary Authority,E06000056,Central Bedfordshire,414,164.8,87,33.7
+Unitary Authority,E06000057,Northumberland,535,142.5,87,22.9
+Unitary Authority,E06000058,"Bournemouth, Christchurch and Poole",598,125.5,60,12.6
+Unitary Authority,E06000059,Dorset,682,122.7,61,10.8
+Non-Metropolitan District,E07000004,Aylesbury Vale,242,142.9,45,26.5
+Non-Metropolitan District,E07000005,Chiltern,170,147.5,52,44.1
+Non-Metropolitan District,E07000006,South Bucks,131,151,25,29.6
+Non-Metropolitan District,E07000007,Wycombe,234,137.2,50,29.6
+Non-Metropolitan District,E07000008,Cambridge,122,124.7,21,21.8
+Non-Metropolitan District,E07000009,East Cambridgeshire,139,152.8,23,25.4
+Non-Metropolitan District,E07000010,Fenland,165,140.3,21,18.2
+Non-Metropolitan District,E07000011,Huntingdonshire,221,127.9,24,13.8
+Non-Metropolitan District,E07000012,South Cambridgeshire,165,103.1,22,14.2
+Non-Metropolitan District,E07000026,Allerdale,185,155.4,34,28.4
+Non-Metropolitan District,E07000027,Barrow-in-Furness,138,196.2,41,58
+Non-Metropolitan District,E07000028,Carlisle,199,166.5,41,33.9
+Non-Metropolitan District,E07000029,Copeland,131,176.3,30,39.9
+Non-Metropolitan District,E07000030,Eden,80,110.5,17,22.7
+Non-Metropolitan District,E07000031,South Lakeland,302,199.2,82,54
+Non-Metropolitan District,E07000032,Amber Valley,211,153.4,39,27.7
+Non-Metropolitan District,E07000033,Bolsover,107,138.7,14,17.9
+Non-Metropolitan District,E07000034,Chesterfield,176,159.2,26,23.3
+Non-Metropolitan District,E07000035,Derbyshire Dales,127,131.6,25,25.8
+Non-Metropolitan District,E07000036,Erewash,182,149.6,36,29.9
+Non-Metropolitan District,E07000037,High Peak,153,165.7,36,38.8
+Non-Metropolitan District,E07000038,North East Derbyshire,192,160.7,50,42.3
+Non-Metropolitan District,E07000039,South Derbyshire,149,163.9,37,39.4
+Non-Metropolitan District,E07000040,East Devon,255,108,11,4.8
+Non-Metropolitan District,E07000041,Exeter,159,134.6,26,22.3
+Non-Metropolitan District,E07000042,Mid Devon,100,104.6,6,5.9
+Non-Metropolitan District,E07000043,North Devon,166,132.6,11,8.6
+Non-Metropolitan District,E07000044,South Hams,135,114.1,5,4
+Non-Metropolitan District,E07000045,Teignbridge,208,114.3,15,8.5
+Non-Metropolitan District,E07000046,Torridge,96,108.6,8,9.2
+Non-Metropolitan District,E07000047,West Devon,87,112.8,6,7.3
+Non-Metropolitan District,E07000061,Eastbourne,177,115.5,26,15.5
+Non-Metropolitan District,E07000062,Hastings,129,134.4,6,6.4
+Non-Metropolitan District,E07000063,Lewes,186,126.8,35,23.9
+Non-Metropolitan District,E07000064,Rother,163,100.8,13,8.1
+Non-Metropolitan District,E07000065,Wealden,234,106.6,34,15.6
+Non-Metropolitan District,E07000066,Basildon,285,172.7,76,45.6
+Non-Metropolitan District,E07000067,Braintree,227,146.4,34,21.8
+Non-Metropolitan District,E07000068,Brentwood,151,168.4,39,43.6
+Non-Metropolitan District,E07000069,Castle Point,173,164,33,29.4
+Non-Metropolitan District,E07000070,Chelmsford,259,146.6,56,32
+Non-Metropolitan District,E07000071,Colchester,189,113.3,35,20.7
+Non-Metropolitan District,E07000072,Epping Forest,264,185.4,86,62.1
+Non-Metropolitan District,E07000073,Harlow,160,219.6,40,55.1
+Non-Metropolitan District,E07000074,Maldon,107,141.1,14,18.3
+Non-Metropolitan District,E07000075,Rochford,140,138.8,34,33.2
+Non-Metropolitan District,E07000076,Tendring,330,152,51,23.1
+Non-Metropolitan District,E07000077,Uttlesford,127,137.4,22,23.8
+Non-Metropolitan District,E07000078,Cheltenham,198,157.1,64,50.1
+Non-Metropolitan District,E07000079,Cotswold,148,125.9,22,19.4
+Non-Metropolitan District,E07000080,Forest of Dean,152,153.5,21,19.9
+Non-Metropolitan District,E07000081,Gloucester,216,187.7,49,42.8
+Non-Metropolitan District,E07000082,Stroud,184,144,37,27.6
+Non-Metropolitan District,E07000083,Tewkesbury,154,146.8,36,34.4
+Non-Metropolitan District,E07000084,Basingstoke and Deane,230,151.7,47,30.5
+Non-Metropolitan District,E07000085,East Hampshire,174,116.8,29,19.2
+Non-Metropolitan District,E07000086,Eastleigh,143,107.2,22,16.5
+Non-Metropolitan District,E07000087,Fareham,197,140.2,48,34.3
+Non-Metropolitan District,E07000088,Gosport,148,169.7,28,32.1
+Non-Metropolitan District,E07000089,Hart,120,121.1,22,21.9
+Non-Metropolitan District,E07000090,Havant,234,150.7,43,27.5
+Non-Metropolitan District,E07000091,New Forest,328,112.2,40,14.4
+Non-Metropolitan District,E07000092,Rushmoor,97,133.8,19,26.3
+Non-Metropolitan District,E07000093,Test Valley,156,111.8,18,12.9
+Non-Metropolitan District,E07000094,Winchester,172,119.1,30,20.6
+Non-Metropolitan District,E07000095,Broxbourne,185,199.7,40,42.7
+Non-Metropolitan District,E07000096,Dacorum,265,182.6,52,36.8
+Non-Metropolitan District,E07000098,Hertsmere,261,241.8,100,95
+Non-Metropolitan District,E07000099,North Hertfordshire,203,146.9,29,21.6
+Non-Metropolitan District,E07000102,Three Rivers,149,160.1,34,36.8
+Non-Metropolitan District,E07000103,Watford,159,222.6,57,79.8
+Non-Metropolitan District,E07000105,Ashford,148,117,28,21.9
+Non-Metropolitan District,E07000106,Canterbury,221,123.9,33,18.2
+Non-Metropolitan District,E07000107,Dartford,160,192.6,43,51.8
+Non-Metropolitan District,E07000108,Dover,202,147.6,26,19.1
+Non-Metropolitan District,E07000109,Gravesham,173,177.2,41,42.5
+Non-Metropolitan District,E07000110,Maidstone,229,140.8,30,18.3
+Non-Metropolitan District,E07000111,Sevenoaks,191,140.3,41,29.5
+Non-Metropolitan District,E07000112,Folkestone and Hythe,163,116.1,23,16.4
+Non-Metropolitan District,E07000113,Swale,223,163.1,41,30.1
+Non-Metropolitan District,E07000114,Thanet,249,146.6,40,24.3
+Non-Metropolitan District,E07000115,Tonbridge and Malling,142,115,20,16.3
+Non-Metropolitan District,E07000116,Tunbridge Wells,163,127,17,13.5
+Non-Metropolitan District,E07000117,Burnley,167,203.4,26,31.9
+Non-Metropolitan District,E07000118,Chorley,184,175.5,40,37.4
+Non-Metropolitan District,E07000119,Fylde,133,115.2,23,19.5
+Non-Metropolitan District,E07000120,Hyndburn,122,171.4,19,25.6
+Non-Metropolitan District,E07000121,Lancaster,257,176.7,35,23.9
+Non-Metropolitan District,E07000122,Pendle,155,188.6,32,38
+Non-Metropolitan District,E07000123,Preston,202,185.5,36,33.8
+Non-Metropolitan District,E07000124,Ribble Valley,87,120.2,8,11.2
+Non-Metropolitan District,E07000125,Rossendale,100,159.7,10,16.5
+Non-Metropolitan District,E07000126,South Ribble,158,137.1,30,26
+Non-Metropolitan District,E07000127,West Lancashire,220,177.4,47,38
+Non-Metropolitan District,E07000128,Wyre,201,128.3,20,12.4
+Non-Metropolitan District,E07000129,Blaby,111,108.3,19,18.5
+Non-Metropolitan District,E07000130,Charnwood,210,125.1,41,24.5
+Non-Metropolitan District,E07000131,Harborough,160,158,17,16.6
+Non-Metropolitan District,E07000132,Hinckley and Bosworth,171,144.6,22,18
+Non-Metropolitan District,E07000133,Melton,89,157.7,17,30.8
+Non-Metropolitan District,E07000134,North West Leicestershire,155,162.6,32,33.8
+Non-Metropolitan District,E07000135,Oadby and Wigston,108,154.6,23,33.4
+Non-Metropolitan District,E07000136,Boston,109,152.2,16,21.7
+Non-Metropolitan District,E07000137,East Lindsey,247,127.3,13,6.3
+Non-Metropolitan District,E07000138,Lincoln,127,159.6,8,9.8
+Non-Metropolitan District,E07000139,North Kesteven,193,144.9,24,17.2
+Non-Metropolitan District,E07000140,South Holland,143,122.3,16,13.8
+Non-Metropolitan District,E07000141,South Kesteven,203,126.1,14,8.4
+Non-Metropolitan District,E07000142,West Lindsey,152,141.6,4,3.6
+Non-Metropolitan District,E07000143,Breckland,235,133.3,21,11.7
+Non-Metropolitan District,E07000144,Broadland,201,115.7,17,10.3
+Non-Metropolitan District,E07000145,Great Yarmouth,178,149.5,22,18.1
+Non-Metropolitan District,E07000146,King's Lynn and West Norfolk,295,152.8,46,23
+Non-Metropolitan District,E07000147,North Norfolk,199,112.8,17,9.8
+Non-Metropolitan District,E07000148,Norwich,160,137.8,3,2.5
+Non-Metropolitan District,E07000149,South Norfolk,179,106.2,15,8.5
+Non-Metropolitan District,E07000150,Corby,101,204.6,14,27
+Non-Metropolitan District,E07000151,Daventry,110,132.1,23,27.2
+Non-Metropolitan District,E07000152,East Northamptonshire,168,176.3,38,39.6
+Non-Metropolitan District,E07000153,Kettering,148,159.7,21,22.4
+Non-Metropolitan District,E07000154,Northampton,297,169.9,70,39.7
+Non-Metropolitan District,E07000155,South Northamptonshire,117,128.2,22,24.1
+Non-Metropolitan District,E07000156,Wellingborough,109,145.9,17,22.8
+Non-Metropolitan District,E07000163,Craven,119,150.3,26,33.6
+Non-Metropolitan District,E07000164,Hambleton,175,152.8,27,22.9
+Non-Metropolitan District,E07000165,Harrogate,306,149.1,47,23.1
+Non-Metropolitan District,E07000166,Richmondshire,70,128.8,9,15.6
+Non-Metropolitan District,E07000167,Ryedale,98,136.2,9,12.2
+Non-Metropolitan District,E07000168,Scarborough,207,142.5,25,17.3
+Non-Metropolitan District,E07000169,Selby,121,140,13,15.1
+Non-Metropolitan District,E07000170,Ashfield,198,170.9,48,40.8
+Non-Metropolitan District,E07000171,Bassetlaw,144,115.5,15,12
+Non-Metropolitan District,E07000172,Broxtowe,166,138.1,36,29.4
+Non-Metropolitan District,E07000173,Gedling,182,151.4,43,35.2
+Non-Metropolitan District,E07000174,Mansfield,175,168.5,40,37.6
+Non-Metropolitan District,E07000175,Newark and Sherwood,176,135.2,34,26
+Non-Metropolitan District,E07000176,Rushcliffe,164,125.9,29,22.3
+Non-Metropolitan District,E07000177,Cherwell,230,162.9,43,29.9
+Non-Metropolitan District,E07000178,Oxford,167,155.7,37,34.4
+Non-Metropolitan District,E07000179,South Oxfordshire,194,123.5,36,22.8
+Non-Metropolitan District,E07000180,Vale of White Horse,217,152.2,65,46.4
+Non-Metropolitan District,E07000181,West Oxfordshire,178,141.2,39,30.8
+Non-Metropolitan District,E07000187,Mendip,158,116.1,8,5.9
+Non-Metropolitan District,E07000188,Sedgemoor,217,148.4,21,14.4
+Non-Metropolitan District,E07000189,South Somerset,247,115.2,17,7.9
+Non-Metropolitan District,E07000192,Cannock Chase,144,153,37,38.7
+Non-Metropolitan District,E07000193,East Staffordshire,207,183.2,56,49.4
+Non-Metropolitan District,E07000194,Lichfield,206,175.9,53,45.3
+Non-Metropolitan District,E07000195,Newcastle-under-Lyme,216,162.4,42,32.3
+Non-Metropolitan District,E07000196,South Staffordshire,228,168.8,47,34.3
+Non-Metropolitan District,E07000197,Stafford,201,134.3,31,20.4
+Non-Metropolitan District,E07000198,Staffordshire Moorlands,167,149.7,23,20.6
+Non-Metropolitan District,E07000199,Tamworth,129,192.9,35,51.6
+Non-Metropolitan District,E07000200,Babergh,167,136,15,12.1
+Non-Metropolitan District,E07000202,Ipswich,187,151.6,42,33.4
+Non-Metropolitan District,E07000203,Mid Suffolk,169,138.1,21,17.5
+Non-Metropolitan District,E07000207,Elmbridge,186,127.5,49,35.3
+Non-Metropolitan District,E07000208,Epsom and Ewell,121,154.6,41,53.6
+Non-Metropolitan District,E07000209,Guildford,152,112.7,25,18.5
+Non-Metropolitan District,E07000210,Mole Valley,173,151.2,45,39.8
+Non-Metropolitan District,E07000211,Reigate and Banstead,261,171.2,89,56.7
+Non-Metropolitan District,E07000212,Runnymede,116,142.4,26,33
+Non-Metropolitan District,E07000213,Spelthorne,145,143.5,40,39.5
+Non-Metropolitan District,E07000214,Surrey Heath,131,137.5,17,17.5
+Non-Metropolitan District,E07000215,Tandridge,151,152.2,27,27.8
+Non-Metropolitan District,E07000216,Waverley,175,108.8,33,21.4
+Non-Metropolitan District,E07000217,Woking,117,119.4,19,19.9
+Non-Metropolitan District,E07000218,North Warwickshire,134,194,24,35.2
+Non-Metropolitan District,E07000219,Nuneaton and Bedworth,223,187.5,54,43.6
+Non-Metropolitan District,E07000220,Rugby,143,132.4,23,21.1
+Non-Metropolitan District,E07000221,Stratford-on-Avon,202,117.9,45,26.8
+Non-Metropolitan District,E07000222,Warwick,208,144,34,23.6
+Non-Metropolitan District,E07000223,Adur,110,144.3,9,12.1
+Non-Metropolitan District,E07000224,Arun,285,119.1,20,8.5
+Non-Metropolitan District,E07000225,Chichester,227,130.9,28,15.8
+Non-Metropolitan District,E07000226,Crawley,123,143.3,30,33.3
+Non-Metropolitan District,E07000227,Horsham,212,124.4,31,18.2
+Non-Metropolitan District,E07000228,Mid Sussex,258,157,59,36.2
+Non-Metropolitan District,E07000229,Worthing,194,139.3,16,11.7
+Non-Metropolitan District,E07000234,Bromsgrove,197,162.4,55,46.5
+Non-Metropolitan District,E07000235,Malvern Hills,185,159.7,21,18.6
+Non-Metropolitan District,E07000236,Redditch,103,142.9,21,29.4
+Non-Metropolitan District,E07000237,Worcester,146,161.1,19,20.7
+Non-Metropolitan District,E07000238,Wychavon,215,133.7,40,24.4
+Non-Metropolitan District,E07000239,Wyre Forest,202,168.6,45,37.3
+Non-Metropolitan District,E07000240,St Albans,244,175.7,57,42.7
+Non-Metropolitan District,E07000241,Welwyn Hatfield,173,156.9,45,41.3
+Non-Metropolitan District,E07000242,East Hertfordshire,217,153.2,45,31.1
+Non-Metropolitan District,E07000243,Stevenage,103,138.1,16,22
+Non-Metropolitan District,E07000244,East Suffolk,477,135,68,19
+Non-Metropolitan District,E07000245,West Suffolk,230,116.1,17,8.6
+Non-Metropolitan District,E07000246,Somerset West and Taunton,260,120.5,12,5.5
+Metropolitan District,E08000001,Bolton,468,192,109,44.7
+Metropolitan District,E08000002,Bury,307,177.6,85,48.3
+Metropolitan District,E08000003,Manchester,559,207.9,159,59.8
+Metropolitan District,E08000004,Oldham,404,213,126,66
+Metropolitan District,E08000005,Rochdale,344,191.5,100,54.8
+Metropolitan District,E08000006,Salford,461,244,174,92.6
+Metropolitan District,E08000007,Stockport,469,153.2,130,42.4
+Metropolitan District,E08000008,Tameside,411,213.9,105,54.2
+Metropolitan District,E08000009,Trafford,329,147.3,70,31
+Metropolitan District,E08000010,Wigan,513,180.4,105,36.1
+Metropolitan District,E08000011,Knowsley,262,196.9,54,40.5
+Metropolitan District,E08000012,Liverpool,905,242.2,308,81.8
+Metropolitan District,E08000013,St. Helens,345,196.6,68,37.6
+Metropolitan District,E08000014,Sefton,625,182.6,128,37.1
+Metropolitan District,E08000015,Wirral,665,186.6,171,47.6
+Metropolitan District,E08000016,Barnsley,442,190,74,31.8
+Metropolitan District,E08000017,Doncaster,465,159.3,58,19.4
+Metropolitan District,E08000018,Rotherham,456,178.5,97,37.7
+Metropolitan District,E08000019,Sheffield,761,153.9,164,33
+Metropolitan District,E08000021,Newcastle upon Tyne,422,183.1,95,41.1
+Metropolitan District,E08000022,North Tyneside,277,133.5,42,20.5
+Metropolitan District,E08000023,South Tyneside,243,159.3,42,27.3
+Metropolitan District,E08000024,Sunderland,565,218.4,168,62.8
+Metropolitan District,E08000025,Birmingham,"1,789",220.1,624,77.5
+Metropolitan District,E08000026,Coventry,523,195.7,146,54.3
+Metropolitan District,E08000027,Dudley,602,184.1,156,47.6
+Metropolitan District,E08000028,Sandwell,578,222.2,184,70.1
+Metropolitan District,E08000029,Solihull,409,167.5,113,46.1
+Metropolitan District,E08000030,Walsall,559,216.6,171,64.7
+Metropolitan District,E08000031,Wolverhampton,540,228.4,162,67.9
+Metropolitan District,E08000032,Bradford,727,175.2,142,34.8
+Metropolitan District,E08000033,Calderdale,320,165.6,53,27.6
+Metropolitan District,E08000034,Kirklees,617,161.6,120,31.1
+Metropolitan District,E08000035,Leeds,"1,062",169.7,213,33.8
+Metropolitan District,E08000036,Wakefield,572,177.2,137,42.1
+Metropolitan District,E08000037,Gateshead,386,193.9,97,48.2
+London Borough,E09000001,City of London,9,106.2,3,35.2
+London Borough,E09000002,Barking and Dagenham,271,229.5,103,89.2
+London Borough,E09000003,Barnet,687,216.9,287,91.6
+London Borough,E09000004,Bexley,381,165.4,125,54.8
+London Borough,E09000005,Brent,550,256.9,304,141.5
+London Borough,E09000006,Bromley,508,158.6,152,47.9
+London Borough,E09000007,Camden,214,127.9,91,55.2
+London Borough,E09000008,Croydon,573,201,252,88
+London Borough,E09000009,Ealing,538,230.4,239,103.2
+London Borough,E09000010,Enfield,542,225.9,220,91.3
+London Borough,E09000011,Greenwich,376,230.9,140,84.6
+London Borough,E09000012,Hackney,304,263.5,146,127.4
+London Borough,E09000013,Hammersmith and Fulham,220,209.7,100,96.4
+London Borough,E09000014,Haringey,314,222.1,168,119.3
+London Borough,E09000015,Harrow,487,229.2,241,114.7
+London Borough,E09000016,Havering,516,199.5,166,64.6
+London Borough,E09000017,Hillingdon,447,199.8,164,73
+London Borough,E09000018,Hounslow,317,190,120,69.2
+London Borough,E09000019,Islington,227,208,88,80.7
+London Borough,E09000020,Kensington and Chelsea,171,134.7,84,66.8
+London Borough,E09000021,Kingston upon Thames,241,178.4,57,42.9
+London Borough,E09000022,Lambeth,361,233.7,165,104.3
+London Borough,E09000023,Lewisham,393,244.1,172,106.4
+London Borough,E09000024,Merton,320,228.9,117,83
+London Borough,E09000025,Newham,421,298.7,208,144.3
+London Borough,E09000026,Redbridge,441,209.1,174,82.9
+London Borough,E09000027,Richmond upon Thames,229,136.7,77,47
+London Borough,E09000028,Southwark,320,219,156,108.1
+London Borough,E09000029,Sutton,322,188.2,96,56.7
+London Borough,E09000030,Tower Hamlets,260,239.3,132,122.9
+London Borough,E09000031,Waltham Forest,343,210.8,151,92.5
+London Borough,E09000032,Wandsworth,345,209.7,132,80.2
+London Borough,E09000033,Westminster,274,164.5,120,72.3
+County,E10000002,Buckinghamshire,777,143.2,172,31.8
+County,E10000003,Cambridgeshire,812,127.1,111,17.5
+County,E10000006,Cumbria,"1,035",171.1,245,40.2
+County,E10000007,Derbyshire,"1,297",153.2,263,30.8
+County,E10000008,Devon,"1,206",115.8,88,8.5
+County,E10000011,East Sussex,889,114.4,114,14.6
+County,E10000012,Essex,"2,412",154.2,520,33.2
+County,E10000013,Gloucestershire,"1,052",151.7,229,32.9
+County,E10000014,Hampshire,"1,999",127.8,346,22.2
+County,E10000015,Hertfordshire,"1,959",176,475,43.2
+County,E10000016,Kent,"2,264",139.4,383,23.7
+County,E10000017,Lancashire,"1,986",160.2,326,26.1
+County,E10000018,Leicestershire,"1,004",141.1,171,24
+County,E10000019,Lincolnshire,"1,174",136.4,95,10.8
+County,E10000020,Norfolk,"1,447",128.6,141,12.4
+County,E10000021,Northamptonshire,"1,050",159.2,205,30.9
+County,E10000023,North Yorkshire,"1,096",144.9,156,20.5
+County,E10000024,Nottinghamshire,"1,205",142.5,245,28.6
+County,E10000025,Oxfordshire,986,146.4,220,32.7
+County,E10000027,Somerset,882,124.1,58,8.2
+County,E10000028,Staffordshire,"1,498",162.5,324,34.9
+County,E10000029,Suffolk,"1,230",133.6,163,17.6
+County,E10000030,Surrey,"1,728",137,411,32.9
+County,E10000031,Warwickshire,910,149.6,180,29.7
+County,E10000032,West Sussex,"1,409",133.7,193,18.4
+County,E10000034,Worcestershire,"1,048",154.3,201,29.6
+Metropolitan County,E11000001,Greater Manchester,"4,265",189.5,"1,163",51.4
+Metropolitan County,E11000002,Merseyside,"2,802",202.8,729,52.5
+Metropolitan County,E11000003,South Yorkshire,"2,124",166.5,393,30.7
+Metropolitan County,E11000005,West Midlands,"5,000",208,"1,556",64.7
+Metropolitan County,E11000006,West Yorkshire,"3,298",170,665,34.1
+Metropolitan County,E11000007,Tyne and Wear,"1,893",180.3,444,42
+Region,E12000001,North East,"4,513",174.2,979,37.5
+Region,E12000002,North West,"12,406",181.2,"2,925",42.5
+Region,E12000003,Yorkshire and The Humber,"8,192",159.6,"1,378",26.7
+Region,E12000004,East Midlands,"6,983",150.6,"1,289",27.6
+Region,E12000005,West Midlands,"9,902",176.9,"2,426",43.2
+Region,E12000006,East of England,"9,577",149.9,"1,809",28.4
+Region,E12000007,London,"11,922",206.3,"4,950",85.7
+Region,E12000008,South East,"13,024",138.5,"2,508",26.8
+Region,E12000009,South West,"8,389",131.1,"1,051",16.4
+Country,E92000001,England,"84,908",161,"19,315",36.6
+Country,K04000001,England and Wales,"90,232",161.1,"20,283",36.2
+Unitary Authority,W06000001,Isle of Anglesey,113,126.5,2,0
+Unitary Authority,W06000002,Gwynedd,181,125.4,24,17.1
+Unitary Authority,W06000003,Conwy,191,112.9,12,6.8
+Unitary Authority,W06000004,Denbighshire,169,154.8,19,17.5
+Unitary Authority,W06000005,Flintshire,235,152.1,45,28
+Unitary Authority,W06000006,Wrexham,190,142,12,9.4
+Unitary Authority,W06000008,Ceredigion,111,118.5,5,5.4
+Unitary Authority,W06000009,Pembrokeshire,207,128.2,12,7.4
+Unitary Authority,W06000010,Carmarthenshire,346,159.6,26,11.6
+Unitary Authority,W06000011,Swansea,384,155.1,74,29.4
+Unitary Authority,W06000012,Neath Port Talbot,229,158.1,33,22.7
+Unitary Authority,W06000013,Bridgend,271,192.4,43,31.1
+Unitary Authority,W06000014,Vale of Glamorgan,203,148.6,45,32.3
+Unitary Authority,W06000015,Cardiff,506,183.9,147,53.1
+Unitary Authority,W06000016,Rhondda Cynon Taf,475,211.5,114,50.9
+Unitary Authority,W06000018,Caerphilly,333,201.2,81,48.2
+Unitary Authority,W06000019,Blaenau Gwent,141,206.3,35,51.6
+Unitary Authority,W06000020,Torfaen,175,184,39,41.1
+Unitary Authority,W06000021,Monmouthshire,149,122.6,29,23.9
+Unitary Authority,W06000022,Newport,260,192.9,75,56.5
+Unitary Authority,W06000023,Powys,230,127.1,31,17.1
+Unitary Authority,W06000024,Merthyr Tydfil,118,215,26,47.3
+Local Health Board,W11000023,Betsi Cadwaladr University Health Board,1079,133.9,114,14.2
+Local Health Board,W11000024,Powys Teaching Health Board,230,127.1,31,17.1
+Local Health Board,W11000025,Hywel Dda University Health Board,664,141,43,8.9
+Local Health Board,W11000028,Aneurin Bevan University Health Board,1058,181.2,259,44.6
+Local Health Board,W11000029,Cardiff and Vale University Health Board,709,172,192,46.2
+Local Health Board,W11000030,Cwm Taf Morgannwg University Health Board,864,205.1,183,43.7
+Local Health Board,W11000031,Swansea Bay University Health Board,613,155.9,107,26.9
+Country,W92000004,Wales,"5,217",159.8,929,28.4
