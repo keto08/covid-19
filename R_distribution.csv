@@ -1,0 +1,700 @@
+,date,age,sex,location,category,generation,delay,successors,tree,days
+P-347,2020-04-17,29.0,M,Mysuru,ancestor,1,17,0,unknown,16.0
+P-154,2020-04-06,20.0,M,Mysuru,ancestor,2,6,1,unknown,5.0
+P-52,,,,,,0,0,25,unknown,
+P-159,2020-04-06,32.0,F,Mysuru,ancestor,1,6,2,unknown,5.0
+P-365,2020-04-18,50.0,M,Mysuru,ancestor,1,18,0,unknown,17.0
+P-523,2020-04-28,22.0,M,Bagalakote,ancestor,2,28,0,unknown,27.0
+P-387,2020-04-19,39.0,M,Mysuru,ancestor,1,19,0,unknown,18.0
+P-521,2020-04-28,20.0,F,Bagalakote,ancestor,2,28,0,unknown,27.0
+P-140,2020-04-04,34.0,M,Mysuru,ancestor,2,4,0,unknown,3.0
+P-104,2020-04-01,27.0,M,Mysuru,ancestor,1,1,2,unknown,0.0
+P-388,2020-04-19,23.0,F,Mysuru,ancestor,2,19,0,unknown,18.0
+P-184,2020-04-09,68.0,M,Mysuru,ancestor,2,9,0,unknown,8.0
+P-318,2020-04-17,50.0,M,Mysuru,ancestor,1,17,0,unknown,16.0
+P-341,2020-04-17,22.0,M,Mysuru,ancestor,1,17,0,unknown,16.0
+P-345,2020-04-17,28.0,M,Mysuru,ancestor,1,17,0,unknown,16.0
+P-346,2020-04-17,22.0,M,Mysuru,ancestor,1,17,1,unknown,16.0
+P-700,2020-05-07,13.0,F,Belagavi,ancestor,2,37,0,unknown,36.0
+P-603,2020-05-03,54.0,M,Kalaburagi,ancestor,4,33,0,unknown,32.0
+P-343,2020-04-17,38.0,M,Mysuru,ancestor,1,17,0,unknown,16.0
+P-364,2020-04-18,30.0,M,Mysuru,ancestor,1,18,1,unknown,17.0
+P-105,2020-04-01,33.0,M,Bengaluru Urban,ancestor,2,1,0,unknown,0.0
+P-204,2020-04-10,48.0,F,Mysuru,ancestor,3,10,0,unknown,9.0
+P-103,2020-04-01,37.0,M,Mysuru,ancestor,1,1,3,unknown,0.0
+P-416,2020-04-21,26.0,M,Mysuru,ancestor,1,21,0,unknown,20.0
+P-109,2020-04-01,63.0,M,Mysuru,ancestor,1,1,1,unknown,0.0
+P-427,2020-04-22,32.0,M,Mysuru,ancestor,1,22,0,unknown,21.0
+P-383,2020-04-18,28.0,M,Mysuru,ancestor,1,18,1,unknown,17.0
+P-532,2020-04-29,12.0,F,Kalaburagi,ancestor,3,29,2,unknown,28.0
+P-426,2020-04-22,56.0,M,Mysuru,ancestor,2,22,1,unknown,21.0
+P-183,2020-04-09,55.0,M,Mysuru,ancestor,2,9,1,unknown,8.0
+P-110,2020-04-01,27.0,F,Mysuru,ancestor,1,1,0,unknown,0.0
+P-319,2020-04-17,33.0,M,Mysuru,ancestor,1,17,1,unknown,16.0
+P-381,2020-04-18,30.0,M,Mysuru,ancestor,1,18,3,unknown,17.0
+P-342,2020-04-17,38.0,M,Mysuru,ancestor,1,17,0,unknown,16.0
+P-382,2020-04-18,36.0,M,Mysuru,ancestor,1,18,1,unknown,17.0
+P-497,2020-04-25,50.0,F,Mysuru,ancestor,2,25,0,unknown,24.0
+P-348,2020-04-17,26.0,M,Mysuru,ancestor,1,17,0,unknown,16.0
+P-417,2020-04-21,26.0,M,Mysuru,ancestor,1,21,0,unknown,20.0
+P-200,2020-04-10,8.0,M,Mysuru,ancestor,2,10,0,unknown,9.0
+P-201,2020-04-10,48.0,F,Mysuru,ancestor,2,10,0,unknown,9.0
+P-344,2020-04-17,26.0,M,Mysuru,ancestor,1,17,0,unknown,16.0
+P-534,2020-04-29,26.0,M,Mysuru,ancestor,2,29,0,unknown,28.0
+P-597,2020-05-02,45.0,F,Bagalakote,ancestor,2,32,0,unknown,31.0
+P-602,2020-05-03,13.0,F,Kalaburagi,ancestor,4,33,0,unknown,32.0
+P-320,2020-04-17,33.0,M,Mysuru,ancestor,1,17,0,unknown,16.0
+P-286,2020-04-16,65.0,F,Belagavi,ancestor,2,13,0,exposure,15.0
+P-287,2020-04-16,30.0,F,Belagavi,ancestor,2,13,0,exposure,15.0
+P-717,2020-05-08,21.0,F,Belagavi,ancestor,3,35,0,exposure,37.0
+P-721,2020-05-08,20.0,F,Belagavi,ancestor,3,35,0,exposure,37.0
+P-713,2020-05-08,58.0,M,Belagavi,ancestor,2,35,0,exposure,37.0
+P-289,2020-04-16,58.0,F,Belagavi,ancestor,2,13,0,exposure,15.0
+P-487,2020-04-25,39.0,F,Belagavi,ancestor,1,22,0,exposure,24.0
+P-496,2020-04-25,30.0,F,Belagavi,ancestor,1,22,5,exposure,24.0
+P-540,2020-04-30,27.0,M,Belagavi,ancestor,2,27,0,exposure,29.0
+P-363,2020-04-18,45.0,M,Belagavi,ancestor,1,15,0,exposure,17.0
+P-494,2020-04-25,20.0,M,Belagavi,ancestor,1,22,1,exposure,24.0
+P-596,2020-05-02,23.0,M,Belagavi,ancestor,1,29,1,exposure,31.0
+P-485,2020-04-25,55.0,F,Belagavi,ancestor,1,22,2,exposure,24.0
+P-193,2020-04-09,22.0,M,Belagavi,ancestor,1,6,0,exposure,8.0
+P-546,2020-04-30,50.0,M,Belagavi,ancestor,2,27,0,exposure,29.0
+P-288,2020-04-16,54.0,F,Belagavi,ancestor,2,13,0,exposure,15.0
+P-482,2020-04-25,45.0,M,Belagavi,ancestor,1,22,0,exposure,24.0
+P-543,2020-04-30,24.0,F,Belagavi,ancestor,2,27,0,exposure,29.0
+P-544,2020-04-30,18.0,M,Belagavi,ancestor,2,27,0,exposure,29.0
+P-192,2020-04-09,40.0,F,Belagavi,ancestor,1,6,0,exposure,8.0
+P-484,2020-04-25,80.0,F,Belagavi,ancestor,1,22,2,exposure,24.0
+P-285,2020-04-16,16.0,F,Belagavi,ancestor,2,13,0,exposure,15.0
+P-550,2020-04-30,36.0,F,Belagavi,ancestor,2,27,0,exposure,29.0
+P-486,2020-04-25,42.0,F,Belagavi,ancestor,1,22,3,exposure,24.0
+P-483,2020-04-25,38.0,M,Belagavi,ancestor,1,22,5,exposure,24.0
+P-283,2020-04-16,42.0,M,Belagavi,ancestor,2,13,0,exposure,15.0
+P-552,2020-04-30,36.0,M,Belagavi,ancestor,2,27,3,exposure,29.0
+P-539,2020-04-30,24.0,F,Belagavi,ancestor,2,27,1,exposure,29.0
+P-182,2020-04-09,50.0,M,Belagavi,ancestor,1,6,0,exposure,8.0
+P-718,2020-05-08,45.0,M,Belagavi,ancestor,3,35,0,exposure,37.0
+P-548,2020-04-30,43.0,M,Belagavi,ancestor,2,27,1,exposure,29.0
+P-128,2020-04-03,20.0,M,Belagavi,exposure,0,0,15,exposure,2.0
+P-279,2020-04-15,80.0,F,Belagavi,ancestor,2,12,0,exposure,14.0
+P-716,2020-05-08,16.0,F,Belagavi,ancestor,3,35,0,exposure,37.0
+P-547,2020-04-30,27.0,F,Belagavi,ancestor,2,27,4,exposure,29.0
+P-649,2020-05-04,60.0,M,Bidar,ancestor,2,31,0,exposure,33.0
+P-495,2020-04-25,8.0,M,Belagavi,ancestor,1,22,0,exposure,24.0
+P-715,2020-05-08,20.0,M,Belagavi,ancestor,2,35,0,exposure,37.0
+P-722,2020-05-08,23.0,M,Belagavi,ancestor,3,35,0,exposure,37.0
+P-549,2020-04-30,16.0,M,Belagavi,ancestor,2,27,0,exposure,29.0
+P-224,2020-04-12,38.0,M,Belagavi,ancestor,1,9,7,exposure,11.0
+P-720,2020-05-08,38.0,F,Belagavi,ancestor,3,35,0,exposure,37.0
+P-545,2020-04-30,48.0,F,Belagavi,ancestor,2,27,0,exposure,29.0
+P-714,2020-05-08,30.0,F,Belagavi,ancestor,3,35,0,exposure,37.0
+P-719,2020-05-08,26.0,M,Belagavi,ancestor,3,35,0,exposure,37.0
+P-537,2020-04-30,62.0,M,Vijayapura,ancestor,1,18,0,symptom,29.0
+P-400,2020-04-20,25.0,F,Vijayapura,ancestor,1,8,0,symptom,19.0
+P-308,2020-04-16,37.0,M,Vijayapura,ancestor,1,4,1,symptom,15.0
+P-399,2020-04-20,27.0,F,Vijayapura,ancestor,1,8,0,symptom,19.0
+P-407,2020-04-20,14.0,M,Vijayapura,ancestor,1,8,0,symptom,19.0
+P-328,2020-04-17,6.0,M,Vijayapura,ancestor,1,5,0,symptom,16.0
+P-278,2020-04-15,38.0,F,Vijayapura,ancestor,1,3,0,symptom,14.0
+P-771,2020-05-09,12.0,F,Bidar,ancestor,3,27,0,symptom,38.0
+P-309,2020-04-16,70.0,F,Vijayapura,ancestor,1,4,0,symptom,15.0
+P-275,2020-04-15,38.0,F,Vijayapura,ancestor,1,3,0,symptom,14.0
+P-257,2020-04-14,69.0,M,Vijayapura,ancestor,1,2,0,symptom,13.0
+P-467,2020-04-24,27.0,M,Vijayapura,ancestor,1,12,1,symptom,23.0
+P-313,2020-04-16,55.0,F,Vijayapura,ancestor,1,4,0,symptom,15.0
+P-406,2020-04-20,38.0,F,Vijayapura,ancestor,1,8,0,symptom,19.0
+P-276,2020-04-15,25.0,M,Vijayapura,ancestor,1,3,0,symptom,14.0
+P-404,2020-04-20,10.0,M,Vijayapura,ancestor,1,8,0,symptom,19.0
+P-594,2020-05-02,22.0,M,Vijayapura,ancestor,1,20,1,symptom,31.0
+P-306,2020-04-16,65.0,M,Vijayapura,ancestor,1,4,4,symptom,15.0
+P-428,2020-04-23,32.0,M,Vijayapura,ancestor,1,11,0,symptom,22.0
+P-500,2020-04-25,66.0,F,Bengaluru Urban,ancestor,2,13,0,symptom,24.0
+P-398,2020-04-20,36.0,M,Vijayapura,ancestor,1,8,0,symptom,19.0
+P-510,2020-04-27,45.0,M,Vijayapura,ancestor,1,15,2,symptom,26.0
+P-595,2020-05-02,45.0,M,Vijayapura,ancestor,1,20,1,symptom,31.0
+P-770,2020-05-09,30.0,M,Bidar,ancestor,3,27,0,symptom,38.0
+P-577,2020-05-01,54.0,M,Vijayapura,ancestor,2,19,0,symptom,30.0
+P-307,2020-04-16,66.0,M,Vijayapura,ancestor,1,4,0,symptom,15.0
+P-648,2020-05-04,22.0,M,Bidar,ancestor,2,22,0,symptom,33.0
+P-457,2020-04-24,17.0,M,Vijayapura,ancestor,1,12,0,symptom,23.0
+P-693,2020-05-06,35.0,F,Vijayapura,ancestor,1,24,0,symptom,35.0
+P-410,2020-04-21,18.0,F,Vijayapura,ancestor,2,9,0,symptom,20.0
+P-305,2020-04-16,12.0,M,Vijayapura,ancestor,1,4,0,symptom,15.0
+P-397,2020-04-20,7.0,F,Vijayapura,ancestor,1,8,0,symptom,19.0
+P-411,2020-04-21,30.0,F,Vijayapura,ancestor,2,9,0,symptom,20.0
+P-221,2020-04-12,60.0,F,Vijayapura,symptom,0,0,27,symptom,11.0
+P-373,2020-04-18,42.0,M,Vijayapura,ancestor,2,6,0,symptom,17.0
+P-769,2020-05-09,11.0,F,Vijayapura,ancestor,2,27,0,symptom,38.0
+P-329,2020-04-17,28.0,F,Vijayapura,ancestor,1,5,0,symptom,16.0
+P-415,2020-04-21,18.0,F,Vijayapura,ancestor,2,9,0,symptom,20.0
+P-647,2020-05-04,72.0,F,Bidar,ancestor,2,22,2,symptom,33.0
+P-736,2020-05-08,8.0,M,Davanagere,ancestor,1,9,0,symptom,37.0
+P-618,2020-05-04,32.0,F,Davanagere,ancestor,1,5,0,symptom,33.0
+P-755,2020-05-09,45.0,M,Davanagere,ancestor,2,10,0,symptom,38.0
+P-585,2020-05-01,16.0,M,Davanagere,ancestor,1,2,0,symptom,30.0
+P-754,2020-05-09,20.0,F,Davanagere,ancestor,2,10,0,symptom,38.0
+P-632,2020-05-04,6.0,M,Davanagere,ancestor,1,5,0,symptom,33.0
+P-628,2020-05-04,62.0,F,Davanagere,ancestor,1,5,0,symptom,33.0
+P-626,2020-05-04,25.0,M,Davanagere,ancestor,1,5,0,symptom,33.0
+P-621,2020-05-04,12.0,F,Davanagere,ancestor,1,5,0,symptom,33.0
+P-735,2020-05-08,13.0,F,Davanagere,ancestor,1,9,0,symptom,37.0
+P-629,2020-05-04,34.0,F,Davanagere,ancestor,1,5,0,symptom,33.0
+P-634,2020-05-04,42.0,M,Davanagere,ancestor,1,5,0,symptom,33.0
+P-731,2020-05-08,36.0,M,Davanagere,ancestor,1,9,0,symptom,37.0
+P-617,2020-05-04,38.0,M,Davanagere,ancestor,1,5,0,symptom,33.0
+P-734,2020-05-08,48.0,M,Davanagere,ancestor,1,9,0,symptom,37.0
+P-728,2020-05-08,18.0,F,Davanagere,ancestor,1,9,0,symptom,37.0
+P-625,2020-05-04,27.0,M,Davanagere,ancestor,1,5,0,symptom,33.0
+P-630,2020-05-04,20.0,F,Davanagere,ancestor,1,5,0,symptom,33.0
+P-737,2020-05-08,38.0,F,Davanagere,ancestor,1,9,0,symptom,37.0
+P-616,2020-05-04,52.0,F,Davanagere,ancestor,1,5,0,symptom,33.0
+P-756,2020-05-09,24.0,M,Davanagere,ancestor,2,10,0,symptom,38.0
+P-619,2020-05-04,35.0,M,Davanagere,ancestor,1,5,0,symptom,33.0
+P-622,2020-05-04,7.0,M,Davanagere,ancestor,1,5,0,symptom,33.0
+P-651,2020-05-04,48.0,F,Davanagere,ancestor,1,5,5,symptom,33.0
+P-615,2020-05-04,30.0,M,Davanagere,ancestor,1,5,0,symptom,33.0
+P-757,2020-05-09,24.0,M,Davanagere,ancestor,2,10,0,symptom,38.0
+P-633,2020-05-04,17.0,M,Davanagere,ancestor,1,5,0,symptom,33.0
+P-758,2020-05-09,26.0,M,Davanagere,ancestor,2,10,0,symptom,38.0
+P-732,2020-05-08,32.0,F,Davanagere,ancestor,1,9,0,symptom,37.0
+P-729,2020-05-08,6.0,M,Davanagere,ancestor,1,9,0,symptom,37.0
+P-635,2020-05-04,11.0,M,Davanagere,ancestor,1,5,0,symptom,33.0
+P-631,2020-05-04,22.0,F,Davanagere,ancestor,1,5,0,symptom,33.0
+P-620,2020-05-04,32.0,F,Davanagere,ancestor,1,5,0,symptom,33.0
+P-730,2020-05-08,9.0,M,Davanagere,ancestor,1,9,0,symptom,37.0
+P-533,2020-04-29,35.0,F,Davanagere,symptom,0,0,31,symptom,28.0
+P-627,2020-05-04,33.0,M,Davanagere,ancestor,1,5,0,symptom,33.0
+P-733,2020-05-08,3.0,F,Davanagere,ancestor,1,9,0,symptom,37.0
+P-434,2020-04-23,22.0,M,Bengaluru Urban,ancestor,1,1,0,symptom,22.0
+P-479,2020-04-25,19.0,F,Bengaluru Urban,ancestor,1,3,0,symptom,24.0
+P-439,2020-04-23,37.0,M,Bengaluru Urban,ancestor,1,1,0,symptom,22.0
+P-491,2020-04-25,6.0,M,Bengaluru Urban,ancestor,1,3,0,symptom,24.0
+P-492,2020-04-25,90.0,M,Bengaluru Urban,ancestor,1,3,0,symptom,24.0
+P-459,2020-04-24,35.0,M,Bengaluru Urban,ancestor,1,2,0,symptom,23.0
+P-419,2020-04-22,54.0,M,Bengaluru Urban,symptom,0,0,34,symptom,21.0
+P-441,2020-04-23,24.0,M,Bengaluru Urban,ancestor,1,1,0,symptom,22.0
+P-767,2020-05-09,24.0,M,Bengaluru Urban,ancestor,1,17,0,symptom,38.0
+P-473,2020-04-24,38.0,M,Bengaluru Urban,ancestor,1,2,0,symptom,23.0
+P-768,2020-05-09,37.0,F,Bengaluru Urban,ancestor,1,17,0,symptom,38.0
+P-460,2020-04-24,31.0,M,Bengaluru Urban,ancestor,1,2,0,symptom,23.0
+P-472,2020-04-24,58.0,M,Bengaluru Urban,ancestor,1,2,0,symptom,23.0
+P-461,2020-04-24,32.0,M,Bengaluru Urban,ancestor,1,2,0,symptom,23.0
+P-759,2020-05-09,36.0,M,Bengaluru Urban,ancestor,1,17,0,symptom,38.0
+P-474,2020-04-24,44.0,M,Bengaluru Urban,ancestor,1,2,0,symptom,23.0
+P-480,2020-04-25,28.0,M,Bengaluru Urban,ancestor,1,3,0,symptom,24.0
+P-471,2020-04-24,22.0,M,Bengaluru Urban,ancestor,1,2,0,symptom,23.0
+P-477,2020-04-25,21.0,M,Bengaluru Urban,ancestor,1,3,0,symptom,24.0
+P-490,2020-04-25,52.0,F,Bengaluru Urban,ancestor,1,3,0,symptom,24.0
+P-438,2020-04-23,25.0,M,Bengaluru Urban,ancestor,1,1,0,symptom,22.0
+P-760,2020-05-09,60.0,M,Bengaluru Urban,ancestor,1,17,0,symptom,38.0
+P-437,2020-04-23,30.0,M,Bengaluru Urban,ancestor,1,1,0,symptom,22.0
+P-462,2020-04-24,24.0,M,Bengaluru Urban,ancestor,1,2,0,symptom,23.0
+P-766,2020-05-09,40.0,M,Bengaluru Urban,ancestor,1,17,0,symptom,38.0
+P-469,2020-04-24,26.0,M,Bengaluru Urban,ancestor,1,2,0,symptom,23.0
+P-435,2020-04-23,40.0,M,Bengaluru Urban,ancestor,1,1,0,symptom,22.0
+P-470,2020-04-24,20.0,M,Bengaluru Urban,ancestor,1,2,0,symptom,23.0
+P-440,2020-04-23,43.0,M,Bengaluru Urban,ancestor,1,1,0,symptom,22.0
+P-476,2020-04-25,37.0,M,Bengaluru Urban,ancestor,1,3,0,symptom,24.0
+P-433,2020-04-23,30.0,M,Bengaluru Urban,ancestor,1,1,0,symptom,22.0
+P-493,2020-04-25,27.0,F,Bengaluru Urban,ancestor,1,3,0,symptom,24.0
+P-436,2020-04-23,30.0,M,Bengaluru Urban,ancestor,1,1,0,symptom,22.0
+P-478,2020-04-25,17.0,M,Bengaluru Urban,ancestor,1,3,0,symptom,24.0
+P-458,2020-04-24,26.0,M,Bengaluru Urban,ancestor,1,2,0,symptom,23.0
+P-572,2020-05-01,13.0,M,Mandya,ancestor,2,27,0,travel,30.0
+P-134,2020-04-04,38.0,M,Mysuru,travel,0,0,5,travel,3.0
+P-512,2020-04-27,22.0,F,Mandya,ancestor,2,12,0,travel,26.0
+P-443,2020-04-23,28.0,F,Mandya,ancestor,2,19,0,travel,22.0
+P-179,2020-04-08,35.0,M,Mandya,ancestor,1,4,9,travel,7.0
+P-573,2020-05-01,12.0,M,Mandya,ancestor,2,27,0,travel,30.0
+P-379,2020-04-18,43.0,M,Bagalakote,ancestor,1,3,0,travel,17.0
+P-396,2020-04-20,24.0,M,Gadag,ancestor,2,16,0,travel,19.0
+P-171,2020-04-07,32.0,M,Mandya,ancestor,1,3,4,travel,6.0
+P-138,2020-04-04,54.0,M,Mysuru,travel,0,0,5,travel,3.0
+P-322,2020-04-17,25.0,M,Mandya,ancestor,2,13,0,travel,16.0
+P-172,2020-04-07,36.0,M,Mandya,ancestor,1,3,0,travel,6.0
+P-442,2020-04-23,47.0,M,Mandya,ancestor,2,19,0,travel,22.0
+P-135,2020-04-04,19.0,M,Mysuru,travel,0,0,3,travel,3.0
+P-570,2020-05-01,19.0,M,Mandya,ancestor,2,27,0,travel,30.0
+P-464,2020-04-24,60.0,M,Mandya,ancestor,2,20,0,travel,23.0
+P-239,2020-04-13,18.0,M,Mandya,ancestor,2,9,0,travel,12.0
+P-378,2020-04-18,43.0,M,Bagalakote,ancestor,1,3,0,travel,17.0
+P-263,2020-04-15,39.0,M,Bagalakote,workplace,0,0,4,travel,14.0
+P-238,2020-04-13,8.0,F,Mandya,ancestor,2,9,0,travel,12.0
+P-323,2020-04-17,29.0,M,Mandya,ancestor,2,13,0,travel,16.0
+P-371,2020-04-18,32.0,M,Bagalakote,ancestor,1,3,2,travel,17.0
+P-137,2020-04-04,39.0,M,Mysuru,unknown,0,0,3,travel,3.0
+P-136,2020-04-04,39.0,M,Mysuru,travel,0,0,3,travel,3.0
+P-370,2020-04-18,39.0,M,Mandya,ancestor,1,14,1,travel,17.0
+P-237,2020-04-13,60.0,F,Mandya,ancestor,2,9,0,travel,12.0
+P-372,2020-04-18,32.0,M,Bagalakote,ancestor,1,3,0,travel,17.0
+P-173,2020-04-07,65.0,M,Mandya,ancestor,1,3,0,travel,6.0
+P-571,2020-05-01,32.0,F,Mandya,ancestor,2,27,0,travel,30.0
+P-324,2020-04-17,45.0,M,Mandya,ancestor,2,13,0,travel,16.0
+P-424,2020-04-22,0.4,M,Kalaburagi,ancestor,2,12,0,symptom,21.0
+P-527,2020-04-29,14.0,F,Kalaburagi,ancestor,3,19,0,symptom,28.0
+P-588,2020-05-01,20.0,F,Kalaburagi,ancestor,3,21,0,symptom,30.0
+P-393,2020-04-20,30.0,F,Kalaburagi,ancestor,1,10,1,symptom,19.0
+P-423,2020-04-22,35.0,F,Kalaburagi,ancestor,2,12,0,symptom,21.0
+P-530,2020-04-29,20.0,M,Kalaburagi,ancestor,1,19,0,symptom,28.0
+P-503,2020-04-26,7.0,M,Kalaburagi,ancestor,3,16,0,symptom,25.0
+P-528,2020-04-29,22.0,M,Kalaburagi,ancestor,1,19,0,symptom,28.0
+P-205,2020-04-10,55.0,M,Kalaburagi,symptom,0,0,7,symptom,9.0
+P-520,2020-04-28,22.0,F,Kalaburagi,ancestor,3,18,0,symptom,27.0
+P-516,2020-04-28,40.0,F,Kalaburagi,ancestor,3,18,0,symptom,27.0
+P-526,2020-04-29,28.0,M,Kalaburagi,ancestor,4,19,0,symptom,28.0
+P-395,2020-04-20,19.0,M,Kalaburagi,ancestor,1,10,3,symptom,19.0
+P-360,2020-04-18,34.0,M,Kalaburagi,ancestor,1,8,0,symptom,17.0
+P-525,2020-04-29,4.6,F,Kalaburagi,ancestor,2,19,0,symptom,28.0
+P-392,2020-04-20,13.0,F,Kalaburagi,ancestor,1,10,0,symptom,19.0
+P-531,2020-04-29,17.0,F,Kalaburagi,ancestor,3,19,0,symptom,28.0
+P-518,2020-04-28,28.0,F,Kalaburagi,ancestor,3,18,0,symptom,27.0
+P-529,2020-04-29,40.0,F,Kalaburagi,ancestor,3,19,0,symptom,28.0
+P-519,2020-04-28,45.0,F,Kalaburagi,ancestor,3,18,0,symptom,27.0
+P-517,2020-04-28,43.0,M,Kalaburagi,ancestor,3,18,0,symptom,27.0
+P-425,2020-04-22,26.0,F,Kalaburagi,ancestor,2,12,11,symptom,21.0
+P-515,2020-04-28,55.0,M,Kalaburagi,ancestor,3,18,1,symptom,27.0
+P-255,2020-04-14,51.0,M,Kalaburagi,ancestor,1,4,0,symptom,13.0
+P-749,2020-05-08,60.0,M,Uttara Kannada,ancestor,1,3,0,symptom,37.0
+P-742,2020-05-08,39.0,F,Uttara Kannada,ancestor,1,3,0,symptom,37.0
+P-783,2020-05-09,68.0,M,Uttara Kannada,ancestor,2,4,0,symptom,38.0
+P-746,2020-05-08,83.0,M,Uttara Kannada,ancestor,1,3,0,symptom,37.0
+P-659,2020-05-05,18.0,F,Uttara Kannada,symptom,0,0,18,symptom,34.0
+P-784,2020-05-09,1.5,M,Uttara Kannada,ancestor,1,4,0,symptom,38.0
+P-780,2020-05-09,2.5,F,Uttara Kannada,ancestor,1,4,0,symptom,38.0
+P-739,2020-05-08,25.0,F,Uttara Kannada,ancestor,1,3,0,symptom,37.0
+P-745,2020-05-08,12.0,F,Uttara Kannada,ancestor,1,3,0,symptom,37.0
+P-791,2020-05-09,32.0,F,Uttara Kannada,ancestor,2,4,0,symptom,38.0
+P-750,2020-05-08,22.0,F,Uttara Kannada,ancestor,1,3,1,symptom,37.0
+P-741,2020-05-08,11.0,F,Uttara Kannada,ancestor,1,3,0,symptom,37.0
+P-785,2020-05-09,17.0,F,Uttara Kannada,ancestor,1,4,0,symptom,38.0
+P-747,2020-05-08,0.5,F,Uttara Kannada,ancestor,1,3,0,symptom,37.0
+P-782,2020-05-09,50.0,F,Uttara Kannada,ancestor,1,4,0,symptom,38.0
+P-744,2020-05-08,75.0,F,Uttara Kannada,ancestor,1,3,0,symptom,37.0
+P-740,2020-05-08,18.0,F,Uttara Kannada,ancestor,1,3,1,symptom,37.0
+P-786,2020-05-09,23.0,F,Uttara Kannada,ancestor,1,4,0,symptom,38.0
+P-781,2020-05-09,65.0,M,Uttara Kannada,ancestor,1,4,0,symptom,38.0
+P-748,2020-05-08,3.0,F,Uttara Kannada,ancestor,1,3,0,symptom,37.0
+P-743,2020-05-08,33.0,M,Uttara Kannada,ancestor,1,3,0,symptom,37.0
+P-584,2020-05-01,18.0,F,Davanagere,ancestor,1,1,0,symptom,30.0
+P-668,2020-05-05,19.0,F,Davanagere,ancestor,2,5,0,symptom,34.0
+P-669,2020-05-05,27.0,M,Davanagere,ancestor,2,5,0,symptom,34.0
+P-671,2020-05-05,5.0,M,Davanagere,ancestor,2,5,0,symptom,34.0
+P-724,2020-05-08,10.0,M,Davanagere,ancestor,1,8,0,symptom,37.0
+P-582,2020-05-01,34.0,M,Davanagere,ancestor,1,1,0,symptom,30.0
+P-661,2020-05-05,25.0,M,Davanagere,ancestor,1,5,0,symptom,34.0
+P-580,2020-05-01,31.0,F,Davanagere,ancestor,1,1,0,symptom,30.0
+P-624,2020-05-04,49.0,F,Davanagere,ancestor,1,4,0,symptom,33.0
+P-662,2020-05-05,50.0,F,Davanagere,ancestor,1,5,0,symptom,34.0
+P-660,2020-05-05,30.0,M,Davanagere,ancestor,1,5,0,symptom,34.0
+P-665,2020-05-05,52.0,F,Davanagere,ancestor,1,5,0,symptom,34.0
+P-583,2020-05-01,1.0,M,Davanagere,ancestor,1,1,0,symptom,30.0
+P-670,2020-05-05,42.0,F,Davanagere,ancestor,2,5,0,symptom,34.0
+P-666,2020-05-05,36.0,F,Davanagere,ancestor,2,5,0,symptom,34.0
+P-664,2020-05-05,48.0,M,Davanagere,ancestor,2,5,0,symptom,34.0
+P-663,2020-05-05,51.0,M,Davanagere,ancestor,1,5,0,symptom,34.0
+P-581,2020-05-01,26.0,F,Davanagere,ancestor,1,1,7,symptom,30.0
+P-556,2020-04-30,69.0,M,Davanagere,symptom,0,0,12,symptom,29.0
+P-667,2020-05-05,15.0,F,Davanagere,ancestor,2,5,0,symptom,34.0
+P-366,2020-04-18,65.0,M,Bagalakote,ancestor,3,15,0,unknown,17.0
+P-166,2020-04-07,80.0,F,Gadag,symptom,2,4,2,unknown,6.0
+P-161,2020-04-06,56.0,F,Bagalakote,ancestor,1,3,0,unknown,5.0
+P-655,2020-05-05,29.0,F,Bagalakote,ancestor,4,32,0,unknown,34.0
+P-251,2020-04-14,39.0,F,Bagalakote,ancestor,1,11,0,unknown,13.0
+P-367,2020-04-18,48.0,F,Bagalakote,ancestor,3,15,2,unknown,17.0
+P-186,2020-04-09,4.0,M,Bagalakote,ancestor,2,6,6,unknown,8.0
+P-162,2020-04-06,58.0,M,Bagalakote,ancestor,1,3,0,unknown,5.0
+P-125,2020-04-03,75.0,M,Bagalakote,unknown,0,0,4,unknown,2.0
+P-187,2020-04-09,13.0,M,Bagalakote,ancestor,2,6,0,unknown,8.0
+P-262,2020-04-15,52.0,M,Bagalakote,ancestor,3,12,0,unknown,14.0
+P-368,2020-04-18,65.0,M,Mysuru,symptom,3,15,2,unknown,17.0
+P-188,2020-04-09,9.0,F,Bagalakote,ancestor,2,6,0,unknown,8.0
+P-165,2020-04-07,41.0,F,Bagalakote,ancestor,1,4,5,unknown,6.0
+P-249,2020-04-14,32.0,F,Bagalakote,ancestor,3,11,0,unknown,13.0
+P-656,2020-05-05,29.0,M,Bagalakote,ancestor,4,32,0,unknown,34.0
+P-369,2020-04-18,42.0,M,Gadag,ancestor,4,15,0,unknown,17.0
+P-304,2020-04-16,59.0,F,Gadag,ancestor,3,13,1,unknown,15.0
+P-248,2020-04-14,43.0,M,Bagalakote,ancestor,2,11,0,unknown,13.0
+P-317,2020-04-17,11.0,F,Bengaluru Urban,ancestor,1,10,0,travel,16.0
+P-198,2020-04-10,48.0,M,Bengaluru Urban,ancestor,1,3,0,travel,9.0
+P-353,2020-04-17,21.0,M,Bengaluru Urban,ancestor,1,10,0,travel,16.0
+P-259,2020-04-14,35.0,F,Bengaluru Urban,ancestor,2,7,0,travel,13.0
+P-375,2020-04-18,55.0,F,Bengaluru Urban,ancestor,1,11,0,travel,17.0
+P-376,2020-04-18,50.0,F,Bengaluru Urban,ancestor,1,11,0,travel,17.0
+P-351,2020-04-17,23.0,M,Bengaluru Urban,ancestor,1,10,0,travel,16.0
+P-614,2020-05-03,45.0,F,Bengaluru Urban,ancestor,2,26,0,travel,32.0
+P-377,2020-04-18,21.0,F,Bengaluru Urban,ancestor,1,11,0,travel,17.0
+P-316,2020-04-17,55.0,M,Bengaluru Urban,ancestor,1,10,0,travel,16.0
+P-352,2020-04-17,28.0,M,Bengaluru Urban,ancestor,1,10,0,travel,16.0
+P-168,2020-04-07,50.0,M,Bengaluru Urban,travel,0,0,8,travel,6.0
+P-613,2020-05-03,24.0,F,Bengaluru Urban,ancestor,2,26,0,travel,32.0
+P-612,2020-05-03,45.0,F,Bengaluru Urban,ancestor,2,26,0,travel,32.0
+P-199,2020-04-10,57.0,M,Bengaluru Urban,ancestor,1,3,1,travel,9.0
+P-167,2020-04-07,29.0,M,Bengaluru Urban,travel,0,0,11,travel,6.0
+P-350,2020-04-17,32.0,M,Bengaluru Urban,ancestor,1,10,3,travel,16.0
+P-578,2020-05-01,69.0,M,Dakshina Kannada,ancestor,1,12,3,symptom,30.0
+P-432,2020-04-23,78.0,F,Dakshina Kannada,ancestor,1,4,3,symptom,22.0
+P-658,2020-05-05,51.0,M,Dakshina Kannada,ancestor,4,16,0,symptom,34.0
+P-506,2020-04-27,45.0,M,Dakshina Kannada,ancestor,3,8,0,symptom,26.0
+P-679,2020-05-06,52.0,M,Kalaburagi,ancestor,4,17,0,symptom,35.0
+P-674,2020-05-06,11.0,F,Dakshina Kannada,ancestor,4,17,0,symptom,35.0
+P-779,2020-05-09,70.0,F,Dakshina Kannada,ancestor,2,20,0,symptom,38.0
+P-675,2020-05-06,35.0,F,Dakshina Kannada,ancestor,4,17,0,symptom,35.0
+P-536,2020-04-30,58.0,F,Dakshina Kannada,ancestor,3,11,5,symptom,29.0
+P-579,2020-05-01,62.0,M,Dakshina Kannada,ancestor,4,12,0,symptom,30.0
+P-501,2020-04-26,47.0,F,Dakshina Kannada,ancestor,2,7,1,symptom,25.0
+P-777,2020-05-09,30.0,M,Dakshina Kannada,ancestor,2,20,0,symptom,38.0
+P-507,2020-04-27,80.0,F,Dakshina Kannada,ancestor,2,8,1,symptom,26.0
+P-676,2020-05-06,16.0,F,Dakshina Kannada,ancestor,1,17,0,symptom,35.0
+P-778,2020-05-09,60.0,F,Dakshina Kannada,ancestor,2,20,0,symptom,38.0
+P-390,2020-04-19,50.0,F,Dakshina Kannada,symptom,0,0,3,symptom,18.0
+P-607,2020-05-03,23.0,F,Bagalakote,symptom,0,0,15,symptom,32.0
+P-703,2020-05-07,80.0,F,Bagalakote,ancestor,1,4,0,symptom,36.0
+P-686,2020-05-06,15.0,M,Bagalakote,ancestor,1,3,0,symptom,35.0
+P-704,2020-05-07,19.0,F,Bagalakote,ancestor,1,4,0,symptom,36.0
+P-687,2020-05-06,40.0,F,Bagalakote,ancestor,1,3,0,symptom,35.0
+P-692,2020-05-06,16.0,F,Bagalakote,ancestor,1,3,0,symptom,35.0
+P-702,2020-05-07,55.0,F,Bagalakote,ancestor,1,4,0,symptom,36.0
+P-683,2020-05-06,26.0,M,Bagalakote,ancestor,1,3,0,symptom,35.0
+P-688,2020-05-06,23.0,M,Bagalakote,ancestor,1,3,0,symptom,35.0
+P-689,2020-05-06,10.0,M,Bagalakote,ancestor,1,3,0,symptom,35.0
+P-691,2020-05-06,30.0,M,Bagalakote,ancestor,1,3,0,symptom,35.0
+P-684,2020-05-06,47.0,M,Bagalakote,ancestor,1,3,0,symptom,35.0
+P-690,2020-05-06,32.0,M,Bagalakote,ancestor,1,3,0,symptom,35.0
+P-682,2020-05-06,55.0,F,Bagalakote,ancestor,1,3,0,symptom,35.0
+P-685,2020-05-06,30.0,F,Bagalakote,ancestor,1,3,0,symptom,35.0
+P-681,2020-05-06,45.0,M,Bagalakote,ancestor,1,3,0,symptom,35.0
+P-330,2020-04-17,39.0,M,Ballari,ancestor,1,17,0,unknown,16.0
+P-336,2020-04-17,24.0,M,Ballari,ancestor,1,13,0,unknown,16.0
+P-332,2020-04-17,21.0,M,Ballari,ancestor,1,13,0,unknown,16.0
+P-334,2020-04-17,10.0,F,Ballari,ancestor,1,13,0,unknown,16.0
+P-331,2020-04-17,48.0,F,Ballari,ancestor,1,13,0,unknown,16.0
+P-141,2020-04-04,47.0,F,Hospet,unknown,0,0,8,unknown,3.0
+P-337,2020-04-17,68.0,F,Ballari,ancestor,1,13,0,unknown,16.0
+P-335,2020-04-17,50.0,M,Ballari,ancestor,1,13,0,unknown,16.0
+P-89,,,,,,0,0,1,unknown,
+P-90,,,,,,0,0,1,unknown,
+P-91,,,,,,0,0,1,unknown,
+P-333,2020-04-17,48.0,F,Ballari,ancestor,1,13,0,unknown,16.0
+P-575,2020-05-01,30.0,F,Belagavi,ancestor,3,26,1,exposure,30.0
+P-574,2020-05-01,55.0,M,Belagavi,ancestor,3,26,0,exposure,30.0
+P-300,2020-04-16,25.0,M,Belagavi,ancestor,2,11,0,exposure,15.0
+P-299,2020-04-16,35.0,M,Belagavi,ancestor,2,11,0,exposure,15.0
+P-723,2020-05-08,20.0,M,Belagavi,ancestor,4,33,0,exposure,37.0
+P-576,2020-05-01,50.0,M,Belagavi,ancestor,3,26,0,exposure,30.0
+P-149,2020-04-05,67.0,F,Belagavi,exposure,0,0,3,exposure,4.0
+P-243,2020-04-13,20.0,M,Belagavi,ancestor,1,8,0,exposure,12.0
+P-245,2020-04-13,45.0,M,Belagavi,ancestor,1,8,4,exposure,12.0
+P-298,2020-04-16,50.0,M,Belagavi,ancestor,2,11,0,exposure,15.0
+P-301,2020-04-16,64.0,M,Belagavi,ancestor,2,11,3,exposure,15.0
+P-244,2020-04-13,14.0,M,Belagavi,ancestor,1,8,0,exposure,12.0
+P-236,2020-04-13,37.0,M,Dharwad,ancestor,1,4,3,travel,12.0
+P-235,2020-04-13,7.0,F,Dharwad,ancestor,1,4,0,travel,12.0
+P-402,2020-04-20,28.0,F,Vijayapura,ancestor,3,11,0,travel,19.0
+P-431,2020-04-23,13.0,F,Dharwad,ancestor,2,14,0,travel,22.0
+P-233,2020-04-13,5.0,M,Dharwad,ancestor,1,4,0,travel,12.0
+P-362,2020-04-18,63.0,M,Dharwad,ancestor,2,9,3,travel,17.0
+P-430,2020-04-23,30.0,F,Dharwad,ancestor,2,14,0,travel,22.0
+P-403,2020-04-20,47.0,F,Vijayapura,ancestor,3,11,0,travel,19.0
+P-234,2020-04-13,3.6,M,Dharwad,ancestor,1,4,0,travel,12.0
+P-401,2020-04-20,21.0,F,Vijayapura,ancestor,3,11,0,travel,19.0
+P-194,2020-04-09,27.0,M,Dharwad,travel,0,0,4,travel,8.0
+P-209,2020-04-11,46.0,M,Mysuru,ancestor,1,11,0,unknown,10.0
+P-88,,,,,,0,0,8,unknown,
+P-111,2020-04-02,24.0,M,Mysuru,ancestor,1,2,1,unknown,1.0
+P-202,2020-04-10,33.0,M,Mysuru,ancestor,2,10,0,unknown,9.0
+P-214,2020-04-11,26.0,M,Mysuru,ancestor,1,11,0,unknown,10.0
+P-112,2020-04-02,22.0,M,Mysuru,ancestor,1,2,0,unknown,1.0
+P-212,2020-04-11,27.0,M,Mysuru,ancestor,1,11,0,unknown,10.0
+P-216,2020-04-12,32.0,M,Mysuru,ancestor,1,12,0,unknown,11.0
+P-213,2020-04-11,31.0,M,Mysuru,ancestor,1,11,0,unknown,10.0
+P-210,2020-04-11,43.0,M,Mysuru,ancestor,1,11,0,unknown,10.0
+P-339,2020-04-17,20.0,M,Chikkaballapur,ancestor,1,3,0,symptom,16.0
+P-636,2020-05-04,30.0,M,Chikkaballapur,ancestor,2,20,0,symptom,33.0
+P-646,2020-05-04,16.0,M,Bidar,ancestor,2,20,0,symptom,33.0
+P-586,2020-05-01,40.0,F,Chikkaballapur,ancestor,1,17,1,symptom,30.0
+P-451,2020-04-24,39.0,M,Chikkaballapur,ancestor,1,10,0,symptom,23.0
+P-250,2020-04-14,65.0,M,Chikkaballapur,symptom,0,0,6,symptom,13.0
+P-593,2020-05-02,54.0,M,Chikkaballapur,ancestor,1,18,1,symptom,31.0
+P-340,2020-04-17,19.0,M,Chikkaballapur,ancestor,1,3,0,symptom,16.0
+P-338,2020-04-17,36.0,M,Chikkaballapur,ancestor,1,3,0,symptom,16.0
+P-538,2020-04-30,33.0,F,Vijayapura,ancestor,2,22,0,symptom,29.0
+P-256,2020-04-14,35.0,F,Kalaburagi,ancestor,1,6,0,symptom,13.0
+P-421,2020-04-22,46.0,F,Kalaburagi,ancestor,2,14,0,symptom,21.0
+P-177,2020-04-08,65.0,M,Kalaburagi,symptom,0,0,5,symptom,7.0
+P-220,2020-04-12,24.0,F,Kalaburagi,ancestor,1,4,0,symptom,11.0
+P-254,2020-04-14,10.0,F,Kalaburagi,ancestor,1,6,0,symptom,13.0
+P-394,2020-04-20,50.0,M,Kalaburagi,ancestor,1,12,0,symptom,19.0
+P-222,2020-04-12,38.0,F,Kalaburagi,ancestor,1,4,2,symptom,11.0
+P-653,2020-05-05,34.0,M,Bengaluru Urban,ancestor,3,26,4,symptom,34.0
+P-420,2020-04-22,28.0,F,Bengaluru Urban,ancestor,2,13,1,symptom,21.0
+P-196,2020-04-09,42.0,M,Bengaluru Urban,symptom,0,0,1,symptom,8.0
+P-708,2020-05-08,22.0,M,Bengaluru Urban,ancestor,4,29,0,symptom,37.0
+P-709,2020-05-08,19.0,M,Bengaluru Urban,ancestor,4,29,0,symptom,37.0
+P-710,2020-05-08,40.0,M,Bengaluru Urban,ancestor,4,29,0,symptom,37.0
+P-711,2020-05-08,25.0,M,Bengaluru Urban,ancestor,4,29,0,symptom,37.0
+P-208,2020-04-11,32.0,M,Bengaluru Urban,ancestor,1,2,1,symptom,10.0
+P-223,2020-04-12,19.0,M,Belagavi,ancestor,1,7,0,exposure,11.0
+P-150,2020-04-05,41.0,F,Belagavi,exposure,0,0,4,exposure,4.0
+P-448,2020-04-24,10.0,F,Belagavi,ancestor,1,19,0,exposure,23.0
+P-282,2020-04-16,51.0,F,Belagavi,ancestor,2,11,0,exposure,15.0
+P-225,2020-04-12,55.0,M,Belagavi,ancestor,1,7,2,exposure,11.0
+P-284,2020-04-16,33.0,M,Belagavi,ancestor,2,11,0,exposure,15.0
+P-226,2020-04-12,25.0,M,Belagavi,ancestor,1,7,0,exposure,11.0
+P-355,2020-04-17,34.0,M,Belagavi,ancestor,1,14,0,exposure,16.0
+P-359,2020-04-17,38.0,M,Belagavi,ancestor,1,14,0,exposure,16.0
+P-358,2020-04-17,37.0,M,Belagavi,ancestor,1,14,0,exposure,16.0
+P-356,2020-04-17,17.0,M,Belagavi,ancestor,1,14,0,exposure,16.0
+P-357,2020-04-17,46.0,M,Belagavi,ancestor,1,14,0,exposure,16.0
+P-127,2020-04-03,26.0,M,Belagavi,exposure,0,0,5,exposure,2.0
+P-561,2020-04-30,4.0,F,Bengaluru Urban,ancestor,1,14,0,travel,29.0
+P-551,2020-04-30,8.0,F,Belagavi,ancestor,1,14,0,travel,29.0
+P-418,2020-04-21,25.0,F,Belagavi,ancestor,1,5,0,travel,20.0
+P-293,2020-04-16,47.0,M,Belagavi,travel,0,0,5,travel,15.0
+P-541,2020-04-30,9.0,M,Belagavi,ancestor,1,14,0,travel,29.0
+P-524,2020-04-29,12.0,M,Belagavi,ancestor,1,13,0,travel,28.0
+P-277,2020-04-15,32.0,F,Bengaluru Urban,ancestor,1,1,0,symptom,14.0
+P-326,2020-04-17,6.0,M,Bengaluru Urban,ancestor,1,3,0,symptom,16.0
+P-252,2020-04-14,65.0,M,Bengaluru Urban,symptom,0,0,4,symptom,13.0
+P-280,2020-04-16,13.0,M,Bengaluru Urban,ancestor,1,2,0,symptom,15.0
+P-598,2020-05-02,32.0,F,Bengaluru Urban,ancestor,2,18,0,symptom,31.0
+P-444,2020-04-23,41.0,M,Bengaluru Urban,ancestor,1,9,1,symptom,22.0
+P-569,2020-05-01,30.0,F,Mandya,ancestor,1,0,0,travel,30.0
+P-567,2020-05-01,24.0,F,Mandya,travel,0,0,2,travel,30.0
+P-568,2020-05-01,27.0,M,Mandya,travel,0,0,1,travel,30.0
+P-566,2020-05-01,25.0,M,Mandya,travel,0,0,2,travel,30.0
+P-601,2020-05-02,30.0,M,Bengaluru Urban,ancestor,1,1,0,travel,31.0
+P-600,2020-05-02,26.0,F,Bengaluru Urban,ancestor,1,1,0,travel,31.0
+P-762,2020-05-09,20.0,F,Bengaluru Urban,ancestor,1,15,0,exposure,38.0
+P-773,2020-05-09,46.0,M,Bengaluru Urban,ancestor,1,15,0,exposure,38.0
+P-763,2020-05-09,40.0,F,Bengaluru Urban,ancestor,1,15,0,exposure,38.0
+P-774,2020-05-09,19.0,F,Bengaluru Urban,ancestor,1,15,0,exposure,38.0
+P-454,2020-04-24,23.0,M,Bengaluru Urban,exposure,0,0,4,exposure,23.0
+P-606,2020-05-03,60.0,F,Bagalakote,ancestor,1,15,0,symptom,32.0
+P-605,2020-05-03,68.0,M,Bagalakote,ancestor,1,15,0,symptom,32.0
+P-455,2020-04-24,28.0,M,Bagalakote,ancestor,1,6,0,symptom,23.0
+P-468,2020-04-24,14.0,M,Bagalakote,ancestor,1,6,0,symptom,23.0
+P-380,2020-04-18,47.0,M,Bagalakote,symptom,0,0,4,symptom,17.0
+P-232,2020-04-12,20.0,F,Vijayapura,unknown,0,0,1,unknown,11.0
+P-228,2020-04-12,13.0,M,Vijayapura,unknown,0,0,3,unknown,11.0
+P-640,2020-05-04,62.0,F,Vijayapura,ancestor,1,22,0,unknown,33.0
+P-405,2020-04-20,34.0,F,Vijayapura,ancestor,1,8,0,unknown,19.0
+P-310,2020-04-16,1.5,F,Vijayapura,ancestor,1,4,0,unknown,15.0
+P-211,2020-04-11,50.0,F,Bidar,ancestor,1,9,2,exposure,10.0
+P-241,2020-04-13,16.0,F,Bidar,ancestor,2,11,0,exposure,12.0
+P-122,2020-04-02,73.0,M,Bidar,exposure,0,0,1,exposure,1.0
+P-242,2020-04-13,35.0,F,Bidar,ancestor,2,11,0,exposure,12.0
+P-727,2020-05-08,27.0,F,Davanagere,ancestor,2,22,0,unknown,37.0
+P-559,2020-04-30,15.0,M,Bengaluru Urban,ancestor,1,14,1,unknown,29.0
+P-560,2020-04-30,60.0,F,Bengaluru Urban,ancestor,1,14,0,unknown,29.0
+P-292,2020-04-16,43.0,M,Bengaluru Urban,unknown,0,0,2,unknown,15.0
+P-456,2020-04-24,46.0,M,Bagalakote,symptom,0,0,3,symptom,23.0
+P-522,2020-04-28,11.0,M,Bagalakote,ancestor,1,4,0,symptom,27.0
+P-509,2020-04-27,21.0,F,Bagalakote,ancestor,1,3,0,symptom,26.0
+P-508,2020-04-27,32.0,F,Bagalakote,ancestor,1,3,0,symptom,26.0
+P-699,2020-05-07,41.0,M,Kalaburagi,ancestor,2,4,0,symptom,36.0
+P-641,2020-05-04,36.0,F,Kalaburagi,ancestor,1,1,2,symptom,33.0
+P-604,2020-05-03,41.0,M,Kalaburagi,symptom,0,0,1,symptom,32.0
+P-698,2020-05-07,36.0,F,Kalaburagi,ancestor,2,4,0,symptom,36.0
+P-133,2020-04-04,60.0,M,Kerala,travel,0,0,1,travel,3.0
+P-153,2020-04-06,62.0,F,Kerala,ancestor,1,5,0,travel,5.0
+P-106,2020-04-01,49.0,M,Dakshina Kannada,travel,0,0,1,travel,0.0
+P-124,2020-04-02,60.0,F,Kalaburagi,secondary,0,0,1,secondary,1.0
+P-174,2020-04-07,28.0,F,Kalaburagi,ancestor,1,5,1,secondary,6.0
+P-361,2020-04-18,16.0,M,Kalaburagi,ancestor,2,16,0,secondary,17.0
+P-129,2020-04-04,21.0,M,Bengaluru Urban,ancestor,1,4,0,unknown,3.0
+P-58,,,,,,0,0,2,unknown,
+P-130,2020-04-04,57.0,M,Bengaluru Urban,ancestor,1,4,0,unknown,3.0
+P-44,,,,,,0,0,1,unknown,
+P-43,,,,,,0,0,1,unknown,
+P-152,2020-04-06,32.0,M,Bengaluru Urban,ancestor,1,6,0,unknown,5.0
+P-169,2020-04-07,35.0,M,Bengaluru Rural,travel,0,0,1,travel,6.0
+P-207,2020-04-10,11.0,F,Bengaluru Rural,ancestor,2,3,0,travel,9.0
+P-206,2020-04-10,35.0,M,Bengaluru Rural,ancestor,1,3,1,travel,9.0
+P-175,2020-04-07,57.0,M,Kalaburagi,symptom,0,0,2,symptom,6.0
+P-178,2020-04-08,72.0,F,Kalaburagi,ancestor,1,1,0,symptom,7.0
+P-391,2020-04-20,17.0,M,Kalaburagi,ancestor,1,13,0,symptom,19.0
+P-185,2020-04-09,32.0,M,Mandya,ancestor,1,9,0,unknown,8.0
+P-78,,,,,,0,0,2,unknown,
+P-481,2020-04-25,37.0,M,Mandya,ancestor,1,25,0,unknown,24.0
+P-94,,,,,,0,0,1,unknown,
+P-19,,,,,,0,0,1,unknown,
+P-191,2020-04-09,48.0,F,Chikkaballapur,ancestor,1,9,0,unknown,8.0
+P-294,2020-04-16,25.0,M,Belagavi,travel,0,0,2,travel,15.0
+P-542,2020-04-30,75.0,F,Belagavi,ancestor,1,14,0,travel,29.0
+P-562,2020-04-30,16.0,F,Bengaluru Urban,ancestor,1,14,0,travel,29.0
+P-726,2020-05-08,18.0,F,Davanagere,ancestor,2,22,0,travel,37.0
+P-558,2020-04-30,35.0,M,Kalaburagi,ancestor,1,14,1,travel,29.0
+P-314,2020-04-16,32.0,M,Kalaburagi,travel,0,0,1,travel,15.0
+P-449,2020-04-24,30.0,M,Bengaluru Urban,exposure,0,0,2,exposure,23.0
+P-775,2020-05-09,31.0,F,Bengaluru Urban,ancestor,1,15,0,exposure,38.0
+P-761,2020-05-09,55.0,F,Bengaluru Urban,ancestor,1,15,0,exposure,38.0
+P-654,2020-05-05,45.0,M,Bengaluru Urban,symptom,0,0,2,symptom,34.0
+P-678,2020-05-06,25.0,M,Bengaluru Urban,ancestor,1,1,0,symptom,35.0
+P-677,2020-05-06,40.0,F,Bengaluru Urban,ancestor,1,1,0,symptom,35.0
+P-81,,,,,,0,0,1,unknown,
+P-113,2020-04-02,14.0,M,Ballari,ancestor,1,2,0,unknown,1.0
+P-408,2020-04-20,27.0,M,Bidar,ancestor,1,18,0,exposure,19.0
+P-117,2020-04-02,66.0,M,Bidar,exposure,0,0,1,exposure,1.0
+P-101,,,,,,0,0,1,unknown,
+P-131,2020-04-04,43.0,M,Bengaluru Urban,ancestor,1,4,0,unknown,3.0
+P-148,2020-04-05,40.0,M,Belagavi,exposure,0,0,1,exposure,4.0
+P-463,2020-04-24,15.0,M,Belagavi,ancestor,1,19,0,exposure,23.0
+P-164,2020-04-07,33.0,M,Bagalakote,travel,0,0,1,travel,6.0
+P-240,2020-04-13,27.0,M,Bagalakote,ancestor,1,6,0,travel,12.0
+P-176,2020-04-08,26.0,F,Uttara Kannada,symptom,0,0,1,symptom,7.0
+P-260,2020-04-14,36.0,M,Uttara Kannada,ancestor,1,6,0,symptom,13.0
+P-557,2020-04-30,63.0,M,Bengaluru Urban,symptom,0,0,1,symptom,29.0
+P-725,2020-05-08,20.0,M,Davanagere,ancestor,1,8,0,symptom,37.0
+P-563,2020-04-30,13.0,F,Bengaluru Urban,ancestor,1,14,0,travel,29.0
+P-295,2020-04-16,45.0,F,Belagavi,travel,0,0,1,travel,15.0
+P-564,2020-04-30,35.0,M,Bengaluru Urban,ancestor,1,14,0,symptom,29.0
+P-281,2020-04-16,65.0,F,Bengaluru Urban,symptom,0,0,1,symptom,15.0
+P-599,2020-05-02,38.0,F,Bengaluru Urban,ancestor,1,2,0,symptom,31.0
+P-565,2020-04-30,64.0,F,Bengaluru Urban,symptom,0,0,1,symptom,29.0
+P-422,2020-04-22,57.0,M,Kalaburagi,symptom,0,0,1,symptom,21.0
+P-502,2020-04-26,65.0,F,Kalaburagi,ancestor,1,4,0,symptom,25.0
+P-489,2020-04-25,33.0,F,Dakshina Kannada,ancestor,1,4,0,symptom,24.0
+P-409,2020-04-21,67.0,F,Dakshina Kannada,symptom,0,0,1,symptom,20.0
+P-498,2020-04-25,27.0,M,Bengaluru Urban,ancestor,1,1,0,symptom,24.0
+P-465,2020-04-24,45.0,F,Bengaluru Urban,symptom,0,0,1,symptom,23.0
+P-466,2020-04-24,50.0,M,Bengaluru Urban,symptom,0,0,1,symptom,23.0
+P-499,2020-04-25,27.0,M,Bengaluru Urban,ancestor,1,1,0,symptom,24.0
+P-445,2020-04-23,32.0,M,Kalaburagi,ancestor,1,2,0,unknown,22.0
+P-413,2020-04-21,61.0,M,Kalaburagi,unknown,0,0,1,unknown,20.0
+P-389,2020-04-19,30.0,F,Dakshina Kannada,ancestor,1,2,0,travel,18.0
+P-325,2020-04-17,39.0,M,Dakshina Kannada,travel,0,0,1,travel,16.0
+P-374,2020-04-18,26.0,F,Mysuru,ancestor,1,3,0,workplace,17.0
+P-267,2020-04-15,35.0,M,Mysuru,workplace,0,0,1,workplace,14.0
+P-321,2020-04-17,41.0,F,Mysuru,ancestor,1,2,0,symptom,16.0
+P-273,2020-04-15,72.0,M,Mysuru,symptom,0,0,1,symptom,14.0
+P-302,2020-04-16,23.0,F,Kalaburagi,ancestor,1,1,0,symptom,15.0
+P-274,2020-04-15,1.0,M,Kalaburagi,symptom,0,0,1,symptom,14.0
+P-312,2020-04-16,26.0,F,Mysuru,ancestor,1,16,0,unknown,15.0
+P-77,,,,,,0,0,1,unknown,
+P-85,,,,,,0,0,1,unknown,
+P-203,2020-04-10,28.0,F,Mysuru,ancestor,1,10,0,unknown,9.0
+P-643,2020-05-04,35.0,F,Bidar,ancestor,1,2,0,symptom,33.0
+P-590,2020-05-02,82.0,M,Bidar,symptom,0,0,1,symptom,31.0
+P-672,2020-05-05,40.0,M,Haveri,ancestor,1,1,0,travel,34.0
+P-639,2020-05-04,32.0,M,Haveri,travel,0,0,1,travel,33.0
+P-697,2020-05-07,35.0,M,Kalaburagi,ancestor,1,3,0,travel,36.0
+P-642,2020-05-04,37.0,M,Kalaburagi,travel,0,0,1,travel,33.0
+P-102,2020-04-01,24.0,M,Bengaluru Urban,unknown,0,0,0,unknown,0.0
+P-107,2020-04-01,26.0,M,Kerala,travel,0,0,0,travel,0.0
+P-108,2020-04-01,63.0,M,Kerala,travel,0,0,0,travel,0.0
+P-114,2020-04-02,48.0,M,Bidar,exposure,0,0,0,exposure,1.0
+P-115,2020-04-02,30.0,M,Bidar,exposure,0,0,0,exposure,1.0
+P-116,2020-04-02,41.0,M,Bidar,exposure,0,0,0,exposure,1.0
+P-118,2020-04-02,59.0,M,Bidar,exposure,0,0,0,exposure,1.0
+P-119,2020-04-02,39.0,M,Hyderabad,exposure,0,0,0,exposure,1.0
+P-120,2020-04-02,60.0,M,Bidar,exposure,0,0,0,exposure,1.0
+P-121,2020-04-02,63.0,M,Bidar,exposure,0,0,0,exposure,1.0
+P-123,2020-04-02,45.0,M,Bidar,exposure,0,0,0,exposure,1.0
+P-126,2020-04-03,70.0,M,Belagavi,exposure,0,0,0,exposure,2.0
+P-132,2020-04-04,78.0,M,Bengaluru Urban,travel,0,0,0,travel,3.0
+P-139,2020-04-04,40.0,M,Mysuru,unknown,0,0,0,unknown,3.0
+P-142,2020-04-04,63.0,F,Udupi,travel,0,0,0,travel,3.0
+P-143,2020-04-04,43.0,M,Dakshina Kannada,exposure,0,0,0,exposure,3.0
+P-144,2020-04-04,52.0,M,Dakshina Kannada,exposure,0,0,0,exposure,3.0
+P-145,2020-04-05,68.0,M,Bengaluru Urban,travel,0,0,0,travel,4.0
+P-146,2020-04-05,62.0,F,Bengaluru Urban,exposure,0,0,0,exposure,4.0
+P-147,2020-04-05,36.0,F,Belagavi,exposure,0,0,0,exposure,4.0
+P-151,2020-04-05,41.0,M,Ballari,exposure,0,0,0,exposure,4.0
+P-155,2020-04-06,37.0,M,Mysuru,unknown,0,0,0,unknown,5.0
+P-156,2020-04-06,57.0,M,Mysuru,unknown,0,0,0,unknown,5.0
+P-157,2020-04-06,22.0,M,Mysuru,unknown,0,0,0,unknown,5.0
+P-158,2020-04-06,26.0,M,Mysuru,unknown,0,0,0,unknown,5.0
+P-160,2020-04-06,35.0,M,Mysuru,unknown,0,0,0,unknown,5.0
+P-163,2020-04-06,43.0,M,Bengaluru Rural,unknown,0,0,0,unknown,5.0
+P-170,2020-04-07,68.0,M,Bengaluru Urban,travel,0,0,0,travel,6.0
+P-180,2020-04-08,23.0,M,Chikkaballapur,travel,0,0,0,travel,7.0
+P-181,2020-04-08,27.0,F,Bengaluru Urban,travel,0,0,0,travel,7.0
+P-189,2020-04-09,19.0,F,Bengaluru Urban,travel,0,0,0,travel,8.0
+P-190,2020-04-09,27.0,M,Bengaluru Urban,travel,0,0,0,travel,8.0
+P-195,2020-04-09,66.0,M,Bengaluru Urban,symptom,0,0,0,symptom,8.0
+P-197,2020-04-09,27.0,M,Bengaluru Urban,symptom,0,0,0,symptom,8.0
+P-554,2020-04-30,20.0,M,Bengaluru Urban,exposure,0,0,0,exposure,29.0
+P-555,2020-04-30,28.0,M,Bengaluru Urban,exposure,0,0,0,exposure,29.0
+P-513,2020-04-28,48.0,M,Bengaluru Urban,exposure,0,0,0,exposure,27.0
+P-514,2020-04-28,75.0,M,Gadag,symptom,0,0,0,symptom,27.0
+P-504,2020-04-27,13.0,M,Bengaluru Urban,symptom,0,0,0,symptom,26.0
+P-505,2020-04-27,50.0,M,Mandya,travel,0,0,0,travel,26.0
+P-511,2020-04-27,27.0,M,Vijayapura,unknown,0,0,0,unknown,26.0
+P-475,2020-04-25,34.0,M,Bengaluru Urban,exposure,0,0,0,exposure,24.0
+P-488,2020-04-25,18.0,M,Chikkaballapur,travel,0,0,0,travel,24.0
+P-446,2020-04-24,49.0,F,Bengaluru Urban,symptom,0,0,0,symptom,23.0
+P-447,2020-04-24,32.0,M,Tumkuru,travel,0,0,0,travel,23.0
+P-450,2020-04-24,22.0,M,Bengaluru Urban,exposure,0,0,0,exposure,23.0
+P-452,2020-04-24,35.0,M,Bengaluru Urban,exposure,0,0,0,exposure,23.0
+P-453,2020-04-24,32.0,M,Bengaluru Urban,exposure,0,0,0,exposure,23.0
+P-429,2020-04-23,25.0,F,Vijayapura,unknown,0,0,0,unknown,22.0
+P-412,2020-04-21,29.0,M,Kalaburagi,symptom,0,0,0,symptom,20.0
+P-414,2020-04-21,80.0,M,Kalaburagi,symptom,0,0,0,symptom,20.0
+P-385,2020-04-19,46.0,M,Mysuru,travel,0,0,0,travel,18.0
+P-386,2020-04-19,20.0,M,Mysuru,travel,0,0,0,travel,18.0
+P-327,2020-04-17,18.0,M,Bidar,travel,0,0,0,travel,16.0
+P-349,2020-04-17,64.0,F,Bengaluru Urban,symptom,0,0,0,symptom,16.0
+P-354,2020-04-17,65.0,F,Bengaluru Urban,symptom,0,0,0,symptom,16.0
+P-290,2020-04-16,54.0,F,Andhra Pradesh,unknown,0,0,0,unknown,15.0
+P-291,2020-04-16,37.0,M,Bengaluru Urban,unknown,0,0,0,unknown,15.0
+P-296,2020-04-16,30.0,M,Belagavi,travel,0,0,0,travel,15.0
+P-297,2020-04-16,43.0,M,Belagavi,travel,0,0,0,travel,15.0
+P-303,2020-04-16,52.0,M,Mysuru,workplace,0,0,0,workplace,15.0
+P-311,2020-04-16,38.0,M,Mysuru,workplace,0,0,0,workplace,15.0
+P-315,2020-04-16,5.0,M,Kalaburagi,unknown,0,0,0,unknown,15.0
+P-261,2020-04-15,59.0,M,Bengaluru Urban,symptom,0,0,0,symptom,14.0
+P-264,2020-04-15,41.0,M,Mysuru,workplace,0,0,0,workplace,14.0
+P-265,2020-04-15,30.0,M,Mysuru,workplace,0,0,0,workplace,14.0
+P-266,2020-04-15,27.0,M,Mysuru,workplace,0,0,0,workplace,14.0
+P-268,2020-04-15,26.0,M,Mysuru,workplace,0,0,0,workplace,14.0
+P-269,2020-04-15,23.0,M,Mysuru,workplace,0,0,0,workplace,14.0
+P-270,2020-04-15,35.0,M,Mysuru,workplace,0,0,0,workplace,14.0
+P-271,2020-04-15,28.0,M,Mysuru,workplace,0,0,0,workplace,14.0
+P-272,2020-04-15,32.0,M,Mysuru,workplace,0,0,0,workplace,14.0
+P-253,2020-04-14,26.0,M,Bengaluru Urban,travel,0,0,0,travel,13.0
+P-258,2020-04-14,33.0,M,Belagavi,travel,0,0,0,travel,13.0
+P-246,2020-04-13,39.0,M,Bengaluru Rural,travel,0,0,0,travel,12.0
+P-247,2020-04-13,62.0,M,Bengaluru Urban,symptom,0,0,0,symptom,12.0
+P-217,2020-04-12,75.0,F,Bengaluru Urban,symptom,0,0,0,symptom,11.0
+P-218,2020-04-12,58.0,M,Bengaluru Urban,travel,0,0,0,travel,11.0
+P-219,2020-04-12,76.0,M,Bengaluru Urban,symptom,0,0,0,symptom,11.0
+P-227,2020-04-12,2.0,M,Kalaburagi,symptom,0,0,0,symptom,11.0
+P-229,2020-04-12,12.0,F,Vijayapura,unknown,0,0,0,unknown,11.0
+P-230,2020-04-12,10.0,M,Vijayapura,unknown,0,0,0,unknown,11.0
+P-231,2020-04-12,49.0,M,Vijayapura,unknown,0,0,0,unknown,11.0
+P-587,2020-05-01,56.0,M,Kalaburagi,symptom,0,0,0,symptom,30.0
+P-589,2020-05-01,57.0,M,Dharwad,symptom,0,0,0,symptom,30.0
+P-608,2020-05-03,24.0,M,Bengaluru Urban,exposure,0,0,0,exposure,32.0
+P-609,2020-05-03,35.0,F,Kalaburagi,symptom,0,0,0,symptom,32.0
+P-610,2020-05-03,78.0,M,Kalaburagi,symptom,0,0,0,symptom,32.0
+P-611,2020-05-03,22.0,M,Kalaburagi,unknown,0,0,0,unknown,32.0
+P-623,2020-05-04,38.0,M,Davanagere,symptom,0,0,0,symptom,33.0
+P-637,2020-05-04,20.0,F,Mandya,travel,0,0,0,travel,33.0
+P-638,2020-05-04,19.0,F,Mandya,travel,0,0,0,travel,33.0
+P-650,2020-05-04,40.0,M,Bengaluru Urban,unknown,0,0,0,unknown,33.0
+P-652,2020-05-05,30.0,F,Bengaluru Urban,unknown,0,0,0,unknown,34.0
+P-657,2020-05-05,43.0,M,Ballari,travel,0,0,0,travel,34.0
+P-673,2020-05-05,26.0,M,Dharwad,travel,0,0,0,travel,34.0
+P-680,2020-05-06,18.0,F,Bagalakote,unknown,0,0,0,unknown,35.0
+P-694,2020-05-07,55.0,F,Davanagere,symptom,0,0,0,symptom,36.0
+P-695,2020-05-07,53.0,F,Davanagere,symptom,0,0,0,symptom,36.0
+P-696,2020-05-07,40.0,F,Davanagere,symptom,0,0,0,symptom,36.0
+P-701,2020-05-07,49.0,F,Bengaluru Urban,symptom,0,0,0,symptom,36.0
+P-705,2020-05-07,35.0,M,Dharwad,symptom,0,0,0,symptom,36.0
+P-706,2020-05-08,23.0,M,Bengaluru Urban,exposure,0,0,0,exposure,37.0
+P-707,2020-05-08,35.0,F,Bengaluru Urban,exposure,0,0,0,exposure,37.0
+P-712,2020-05-08,37.0,F,Ballari,unknown,0,0,0,unknown,37.0
+P-738,2020-05-08,34.0,F,Bengaluru Urban,exposure,0,0,0,exposure,37.0
+P-751,2020-05-08,64.0,M,Chitradurga,travel,0,0,0,travel,37.0
+P-752,2020-05-08,64.0,M,Chitradurga,travel,0,0,0,travel,37.0
+P-753,2020-05-08,64.0,M,Chitradurga,travel,0,0,0,travel,37.0
+P-764,2020-05-09,45.0,M,Tumkuru,exposure,0,0,0,exposure,38.0
+P-765,2020-05-09,20.0,F,Bengaluru Urban,exposure,0,0,0,exposure,38.0
+P-772,2020-05-09,30.0,F,Bidar,unknown,0,0,0,unknown,38.0
+P-787,2020-05-09,34.0,M,Chitradurga,travel,0,0,0,travel,38.0
+P-788,2020-05-09,26.0,M,Chitradurga,travel,0,0,0,travel,38.0
+P-789,2020-05-09,17.0,M,Chitradurga,travel,0,0,0,travel,38.0
+P-790,2020-05-09,71.0,M,Chikkaballapur,unknown,0,0,0,unknown,38.0
+P-792,2020-05-09,40.0,M,Tumkuru,travel,0,0,0,travel,38.0
+P-793,2020-05-09,27.0,M,Tumkuru,travel,0,0,0,travel,38.0
+P-794,2020-05-09,38.0,M,Tumkuru,travel,0,0,0,travel,38.0
