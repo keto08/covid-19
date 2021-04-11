@@ -1,0 +1,290 @@
+,variable,variable2,correlation,correlation_label
+0,Total Population,Total Population,1.0,1.00
+1,Total Population,Population Density,0.46141294006544364,0.46
+2,Total Population,Ages 0-19,0.35334042339903005,0.35
+3,Total Population,Ages 20-39,0.49912263573917304,0.50
+4,Total Population,Ages 40-59,-0.4045443143442273,-0.40
+5,Total Population,Ages 60-79,-0.4917072859420417,-0.49
+6,Total Population,Ages 80+,-0.4179093023437874,-0.42
+7,Total Population,1 Person Household,0.05798908221520339,0.06
+8,Total Population,2 People Household,-0.46803277163800944,-0.47
+9,Total Population,3 People Household,-0.08246950767001182,-0.08
+10,Total Population,4 People Household,-0.18893557988863244,-0.19
+11,Total Population,5 People Household,0.26907349174703693,0.27
+12,Total Population,6+ People Household,0.4235216014413018,0.42
+13,Total Population,Mean Household Size,0.21359790479274846,0.21
+14,Total Population,Communal Residents,0.029009695353645556,0.03
+15,Total Population,Days Since 100+ cases,0.5076525363397957,0.51
+16,Total Population,Total cases,0.8075985305650417,0.81
+17,Population Density,Total Population,0.46141294006544364,0.46
+18,Population Density,Population Density,1.0,1.00
+19,Population Density,Ages 0-19,0.5527245784283822,0.55
+20,Population Density,Ages 20-39,0.7674789895491863,0.77
+21,Population Density,Ages 40-59,-0.4422175324506555,-0.44
+22,Population Density,Ages 60-79,-0.8182462058006641,-0.82
+23,Population Density,Ages 80+,-0.7031814084068982,-0.70
+24,Population Density,1 Person Household,0.2148190829184286,0.21
+25,Population Density,2 People Household,-0.7042852177682534,-0.70
+26,Population Density,3 People Household,0.18447211533633187,0.18
+27,Population Density,4 People Household,-0.06899926596316118,-0.07
+28,Population Density,5 People Household,0.477196294234839,0.48
+29,Population Density,6+ People Household,0.5596983899467373,0.56
+30,Population Density,Mean Household Size,0.29690151787549257,0.30
+31,Population Density,Communal Residents,-0.20580862519777007,-0.21
+32,Population Density,Days Since 100+ cases,0.4518423564554989,0.45
+33,Population Density,Total cases,0.5190873585865475,0.52
+34,Ages 0-19,Total Population,0.35334042339903005,0.35
+35,Ages 0-19,Population Density,0.5527245784283822,0.55
+36,Ages 0-19,Ages 0-19,1.0,1.00
+37,Ages 0-19,Ages 20-39,0.4328961226791155,0.43
+38,Ages 0-19,Ages 40-59,-0.17938913559940572,-0.18
+39,Ages 0-19,Ages 60-79,-0.7439029419611494,-0.74
+40,Ages 0-19,Ages 80+,-0.6911991652078253,-0.69
+41,Ages 0-19,1 Person Household,-0.35747530060172006,-0.36
+42,Ages 0-19,2 People Household,-0.8071764802327399,-0.81
+43,Ages 0-19,3 People Household,0.16560921838156503,0.17
+44,Ages 0-19,4 People Household,0.31242371419698806,0.31
+45,Ages 0-19,5 People Household,0.7432115961428825,0.74
+46,Ages 0-19,6+ People Household,0.6369128811871277,0.64
+47,Ages 0-19,Mean Household Size,0.729387565417044,0.73
+48,Ages 0-19,Communal Residents,-0.27835299978239547,-0.28
+49,Ages 0-19,Days Since 100+ cases,0.3393415312325899,0.34
+50,Ages 0-19,Total cases,0.44798989400481215,0.45
+51,Ages 20-39,Total Population,0.49912263573917304,0.50
+52,Ages 20-39,Population Density,0.7674789895491863,0.77
+53,Ages 20-39,Ages 0-19,0.4328961226791155,0.43
+54,Ages 20-39,Ages 20-39,1.0,1.00
+55,Ages 20-39,Ages 40-59,-0.7191144874575301,-0.72
+56,Ages 20-39,Ages 60-79,-0.8888009484980297,-0.89
+57,Ages 20-39,Ages 80+,-0.83021743265824,-0.83
+58,Ages 20-39,1 Person Household,0.23129513252382808,0.23
+59,Ages 20-39,2 People Household,-0.6618106465792354,-0.66
+60,Ages 20-39,3 People Household,0.029554396578964366,0.03
+61,Ages 20-39,4 People Household,-0.24622978313003763,-0.25
+62,Ages 20-39,5 People Household,0.4209099662740408,0.42
+63,Ages 20-39,6+ People Household,0.5959622673371581,0.60
+64,Ages 20-39,Mean Household Size,0.2374213440145881,0.24
+65,Ages 20-39,Communal Residents,0.09504674274759943,0.10
+66,Ages 20-39,Days Since 100+ cases,0.36574408675101694,0.37
+67,Ages 20-39,Total cases,0.5285047787547477,0.53
+68,Ages 40-59,Total Population,-0.4045443143442273,-0.40
+69,Ages 40-59,Population Density,-0.4422175324506555,-0.44
+70,Ages 40-59,Ages 0-19,-0.17938913559940572,-0.18
+71,Ages 40-59,Ages 20-39,-0.7191144874575301,-0.72
+72,Ages 40-59,Ages 40-59,1.0,1.00
+73,Ages 40-59,Ages 60-79,0.44217596839404844,0.44
+74,Ages 40-59,Ages 80+,0.3590468222048142,0.36
+75,Ages 40-59,1 Person Household,-0.337281324545558,-0.34
+76,Ages 40-59,2 People Household,0.3325593620359478,0.33
+77,Ages 40-59,3 People Household,0.20643745427050114,0.21
+78,Ages 40-59,4 People Household,0.5573690591992092,0.56
+79,Ages 40-59,5 People Household,-0.1956233695436458,-0.20
+80,Ages 40-59,6+ People Household,-0.5152988041362725,-0.52
+81,Ages 40-59,Mean Household Size,0.005187532501485998,0.01
+82,Ages 40-59,Communal Residents,-0.3054767277577671,-0.31
+83,Ages 40-59,Days Since 100+ cases,-0.13005622170048636,-0.13
+84,Ages 40-59,Total cases,-0.4324897934939323,-0.43
+85,Ages 60-79,Total Population,-0.4917072859420417,-0.49
+86,Ages 60-79,Population Density,-0.8182462058006641,-0.82
+87,Ages 60-79,Ages 0-19,-0.7439029419611494,-0.74
+88,Ages 60-79,Ages 20-39,-0.8888009484980297,-0.89
+89,Ages 60-79,Ages 40-59,0.44217596839404844,0.44
+90,Ages 60-79,Ages 60-79,1.0,1.00
+91,Ages 60-79,Ages 80+,0.9085603095251524,0.91
+92,Ages 60-79,1 Person Household,0.021768993510374784,0.02
+93,Ages 60-79,2 People Household,0.8464066761483917,0.85
+94,Ages 60-79,3 People Household,-0.11966119431759191,-0.12
+95,Ages 60-79,4 People Household,-0.07273010896385175,-0.07
+96,Ages 60-79,5 People Household,-0.6359525015886721,-0.64
+97,Ages 60-79,6+ People Household,-0.6510401952852524,-0.65
+98,Ages 60-79,Mean Household Size,-0.5112548711895666,-0.51
+99,Ages 60-79,Communal Residents,0.08601352509009476,0.09
+100,Ages 60-79,Days Since 100+ cases,-0.4496032603906791,-0.45
+101,Ages 60-79,Total cases,-0.5247925094470507,-0.52
+102,Ages 80+,Total Population,-0.4179093023437874,-0.42
+103,Ages 80+,Population Density,-0.7031814084068982,-0.70
+104,Ages 80+,Ages 0-19,-0.6911991652078253,-0.69
+105,Ages 80+,Ages 20-39,-0.83021743265824,-0.83
+106,Ages 80+,Ages 40-59,0.3590468222048142,0.36
+107,Ages 80+,Ages 60-79,0.9085603095251524,0.91
+108,Ages 80+,Ages 80+,1.0,1.00
+109,Ages 80+,1 Person Household,0.04623918729076093,0.05
+110,Ages 80+,2 People Household,0.7517637453125904,0.75
+111,Ages 80+,3 People Household,-0.28204853330605534,-0.28
+112,Ages 80+,4 People Household,-0.05047436830890422,-0.05
+113,Ages 80+,5 People Household,-0.5553163855650485,-0.56
+114,Ages 80+,6+ People Household,-0.5954742466102663,-0.60
+115,Ages 80+,Mean Household Size,-0.4793376050447706,-0.48
+116,Ages 80+,Communal Residents,0.21126544171683373,0.21
+117,Ages 80+,Days Since 100+ cases,-0.3753002567532761,-0.38
+118,Ages 80+,Total cases,-0.5431456741629126,-0.54
+119,1 Person Household,Total Population,0.05798908221520339,0.06
+120,1 Person Household,Population Density,0.2148190829184286,0.21
+121,1 Person Household,Ages 0-19,-0.35747530060172006,-0.36
+122,1 Person Household,Ages 20-39,0.23129513252382808,0.23
+123,1 Person Household,Ages 40-59,-0.337281324545558,-0.34
+124,1 Person Household,Ages 60-79,0.021768993510374784,0.02
+125,1 Person Household,Ages 80+,0.04623918729076093,0.05
+126,1 Person Household,1 Person Household,1.0,1.00
+127,1 Person Household,2 People Household,0.24345859208192303,0.24
+128,1 Person Household,3 People Household,-0.038024949705189666,-0.04
+129,1 Person Household,4 People Household,-0.643394890169366,-0.64
+130,1 Person Household,5 People Household,-0.38365515678054785,-0.38
+131,1 Person Household,6+ People Household,-0.09080161199121972,-0.09
+132,1 Person Household,Mean Household Size,-0.7568336070890399,-0.76
+133,1 Person Household,Communal Residents,0.13862836660730685,0.14
+134,1 Person Household,Days Since 100+ cases,-0.006376439096119977,-0.01
+135,1 Person Household,Total cases,0.10204870667305561,0.10
+136,2 People Household,Total Population,-0.46803277163800944,-0.47
+137,2 People Household,Population Density,-0.7042852177682534,-0.70
+138,2 People Household,Ages 0-19,-0.8071764802327399,-0.81
+139,2 People Household,Ages 20-39,-0.6618106465792354,-0.66
+140,2 People Household,Ages 40-59,0.3325593620359478,0.33
+141,2 People Household,Ages 60-79,0.8464066761483917,0.85
+142,2 People Household,Ages 80+,0.7517637453125904,0.75
+143,2 People Household,1 Person Household,0.24345859208192303,0.24
+144,2 People Household,2 People Household,1.0,1.00
+145,2 People Household,3 People Household,0.05372951262984751,0.05
+146,2 People Household,4 People Household,-0.11417626051031284,-0.11
+147,2 People Household,5 People Household,-0.7874473914080082,-0.79
+148,2 People Household,6+ People Household,-0.7570510443466666,-0.76
+149,2 People Household,Mean Household Size,-0.7266955771426199,-0.73
+150,2 People Household,Communal Residents,0.13497932908203478,0.13
+151,2 People Household,Days Since 100+ cases,-0.39009753860506685,-0.39
+152,2 People Household,Total cases,-0.49206859136465125,-0.49
+153,3 People Household,Total Population,-0.08246950767001182,-0.08
+154,3 People Household,Population Density,0.18447211533633187,0.18
+155,3 People Household,Ages 0-19,0.16560921838156503,0.17
+156,3 People Household,Ages 20-39,0.029554396578964366,0.03
+157,3 People Household,Ages 40-59,0.20643745427050114,0.21
+158,3 People Household,Ages 60-79,-0.11966119431759191,-0.12
+159,3 People Household,Ages 80+,-0.28204853330605534,-0.28
+160,3 People Household,1 Person Household,-0.038024949705189666,-0.04
+161,3 People Household,2 People Household,0.05372951262984751,0.05
+162,3 People Household,3 People Household,1.0,1.00
+163,3 People Household,4 People Household,0.42835091006708315,0.43
+164,3 People Household,5 People Household,-0.0014981736380454207,-0.00
+165,3 People Household,6+ People Household,-0.2058856047989334,-0.21
+166,3 People Household,Mean Household Size,0.038084117715930864,0.04
+167,3 People Household,Communal Residents,-0.5332611436124035,-0.53
+168,3 People Household,Days Since 100+ cases,0.20836938725248524,0.21
+169,3 People Household,Total cases,0.21528758516583824,0.22
+170,4 People Household,Total Population,-0.18893557988863244,-0.19
+171,4 People Household,Population Density,-0.06899926596316118,-0.07
+172,4 People Household,Ages 0-19,0.31242371419698806,0.31
+173,4 People Household,Ages 20-39,-0.24622978313003763,-0.25
+174,4 People Household,Ages 40-59,0.5573690591992092,0.56
+175,4 People Household,Ages 60-79,-0.07273010896385175,-0.07
+176,4 People Household,Ages 80+,-0.05047436830890422,-0.05
+177,4 People Household,1 Person Household,-0.643394890169366,-0.64
+178,4 People Household,2 People Household,-0.11417626051031284,-0.11
+179,4 People Household,3 People Household,0.42835091006708315,0.43
+180,4 People Household,4 People Household,1.0,1.00
+181,4 People Household,5 People Household,0.34892830580767725,0.35
+182,4 People Household,6+ People Household,-0.16969743508622273,-0.17
+183,4 People Household,Mean Household Size,0.5221886785828949,0.52
+184,4 People Household,Communal Residents,-0.311065952733577,-0.31
+185,4 People Household,Days Since 100+ cases,0.12915275588864883,0.13
+186,4 People Household,Total cases,-0.15226400189931583,-0.15
+187,5 People Household,Total Population,0.26907349174703693,0.27
+188,5 People Household,Population Density,0.477196294234839,0.48
+189,5 People Household,Ages 0-19,0.7432115961428825,0.74
+190,5 People Household,Ages 20-39,0.4209099662740408,0.42
+191,5 People Household,Ages 40-59,-0.1956233695436458,-0.20
+192,5 People Household,Ages 60-79,-0.6359525015886721,-0.64
+193,5 People Household,Ages 80+,-0.5553163855650485,-0.56
+194,5 People Household,1 Person Household,-0.38365515678054785,-0.38
+195,5 People Household,2 People Household,-0.7874473914080082,-0.79
+196,5 People Household,3 People Household,-0.0014981736380454207,-0.00
+197,5 People Household,4 People Household,0.34892830580767725,0.35
+198,5 People Household,5 People Household,1.0,1.00
+199,5 People Household,6+ People Household,0.7881210362385048,0.79
+200,5 People Household,Mean Household Size,0.8562598386143631,0.86
+201,5 People Household,Communal Residents,-0.23865706771082837,-0.24
+202,5 People Household,Days Since 100+ cases,0.253868627121502,0.25
+203,5 People Household,Total cases,0.25223640493805655,0.25
+204,6+ People Household,Total Population,0.4235216014413018,0.42
+205,6+ People Household,Population Density,0.5596983899467373,0.56
+206,6+ People Household,Ages 0-19,0.6369128811871277,0.64
+207,6+ People Household,Ages 20-39,0.5959622673371581,0.60
+208,6+ People Household,Ages 40-59,-0.5152988041362725,-0.52
+209,6+ People Household,Ages 60-79,-0.6510401952852524,-0.65
+210,6+ People Household,Ages 80+,-0.5954742466102663,-0.60
+211,6+ People Household,1 Person Household,-0.09080161199121972,-0.09
+212,6+ People Household,2 People Household,-0.7570510443466666,-0.76
+213,6+ People Household,3 People Household,-0.2058856047989334,-0.21
+214,6+ People Household,4 People Household,-0.16969743508622273,-0.17
+215,6+ People Household,5 People Household,0.7881210362385048,0.79
+216,6+ People Household,6+ People Household,1.0,1.00
+217,6+ People Household,Mean Household Size,0.6585110761732331,0.66
+218,6+ People Household,Communal Residents,-0.12094705778108186,-0.12
+219,6+ People Household,Days Since 100+ cases,0.23988297196560668,0.24
+220,6+ People Household,Total cases,0.44430940862789653,0.44
+221,Mean Household Size,Total Population,0.21359790479274846,0.21
+222,Mean Household Size,Population Density,0.29690151787549257,0.30
+223,Mean Household Size,Ages 0-19,0.729387565417044,0.73
+224,Mean Household Size,Ages 20-39,0.2374213440145881,0.24
+225,Mean Household Size,Ages 40-59,0.005187532501485998,0.01
+226,Mean Household Size,Ages 60-79,-0.5112548711895666,-0.51
+227,Mean Household Size,Ages 80+,-0.4793376050447706,-0.48
+228,Mean Household Size,1 Person Household,-0.7568336070890399,-0.76
+229,Mean Household Size,2 People Household,-0.7266955771426199,-0.73
+230,Mean Household Size,3 People Household,0.038084117715930864,0.04
+231,Mean Household Size,4 People Household,0.5221886785828949,0.52
+232,Mean Household Size,5 People Household,0.8562598386143631,0.86
+233,Mean Household Size,6+ People Household,0.6585110761732331,0.66
+234,Mean Household Size,Mean Household Size,1.0,1.00
+235,Mean Household Size,Communal Residents,-0.26767291433422274,-0.27
+236,Mean Household Size,Days Since 100+ cases,0.23400892353077904,0.23
+237,Mean Household Size,Total cases,0.2174684460756776,0.22
+238,Communal Residents,Total Population,0.029009695353645556,0.03
+239,Communal Residents,Population Density,-0.20580862519777007,-0.21
+240,Communal Residents,Ages 0-19,-0.27835299978239547,-0.28
+241,Communal Residents,Ages 20-39,0.09504674274759943,0.10
+242,Communal Residents,Ages 40-59,-0.3054767277577671,-0.31
+243,Communal Residents,Ages 60-79,0.08601352509009476,0.09
+244,Communal Residents,Ages 80+,0.21126544171683373,0.21
+245,Communal Residents,1 Person Household,0.13862836660730685,0.14
+246,Communal Residents,2 People Household,0.13497932908203478,0.13
+247,Communal Residents,3 People Household,-0.5332611436124035,-0.53
+248,Communal Residents,4 People Household,-0.311065952733577,-0.31
+249,Communal Residents,5 People Household,-0.23865706771082837,-0.24
+250,Communal Residents,6+ People Household,-0.12094705778108186,-0.12
+251,Communal Residents,Mean Household Size,-0.26767291433422274,-0.27
+252,Communal Residents,Communal Residents,1.0,1.00
+253,Communal Residents,Days Since 100+ cases,-0.18695820876568447,-0.19
+254,Communal Residents,Total cases,-0.1163092184638218,-0.12
+255,Days Since 100+ cases,Total Population,0.5076525363397957,0.51
+256,Days Since 100+ cases,Population Density,0.4518423564554989,0.45
+257,Days Since 100+ cases,Ages 0-19,0.3393415312325899,0.34
+258,Days Since 100+ cases,Ages 20-39,0.36574408675101694,0.37
+259,Days Since 100+ cases,Ages 40-59,-0.13005622170048636,-0.13
+260,Days Since 100+ cases,Ages 60-79,-0.4496032603906791,-0.45
+261,Days Since 100+ cases,Ages 80+,-0.3753002567532761,-0.38
+262,Days Since 100+ cases,1 Person Household,-0.006376439096119977,-0.01
+263,Days Since 100+ cases,2 People Household,-0.39009753860506685,-0.39
+264,Days Since 100+ cases,3 People Household,0.20836938725248524,0.21
+265,Days Since 100+ cases,4 People Household,0.12915275588864883,0.13
+266,Days Since 100+ cases,5 People Household,0.253868627121502,0.25
+267,Days Since 100+ cases,6+ People Household,0.23988297196560668,0.24
+268,Days Since 100+ cases,Mean Household Size,0.23400892353077904,0.23
+269,Days Since 100+ cases,Communal Residents,-0.18695820876568447,-0.19
+270,Days Since 100+ cases,Days Since 100+ cases,1.0,1.00
+271,Days Since 100+ cases,Total cases,0.5520640647582672,0.55
+272,Total cases,Total Population,0.8075985305650417,0.81
+273,Total cases,Population Density,0.5190873585865475,0.52
+274,Total cases,Ages 0-19,0.44798989400481215,0.45
+275,Total cases,Ages 20-39,0.5285047787547477,0.53
+276,Total cases,Ages 40-59,-0.4324897934939323,-0.43
+277,Total cases,Ages 60-79,-0.5247925094470507,-0.52
+278,Total cases,Ages 80+,-0.5431456741629126,-0.54
+279,Total cases,1 Person Household,0.10204870667305561,0.10
+280,Total cases,2 People Household,-0.49206859136465125,-0.49
+281,Total cases,3 People Household,0.21528758516583824,0.22
+282,Total cases,4 People Household,-0.15226400189931583,-0.15
+283,Total cases,5 People Household,0.25223640493805655,0.25
+284,Total cases,6+ People Household,0.44430940862789653,0.44
+285,Total cases,Mean Household Size,0.2174684460756776,0.22
+286,Total cases,Communal Residents,-0.1163092184638218,-0.12
+287,Total cases,Days Since 100+ cases,0.5520640647582672,0.55
+288,Total cases,Total cases,1.0,1.00
