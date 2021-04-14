@@ -1,0 +1,2610 @@
+[
+  {
+    "deaths_general": 85,
+    "deaths_restricted": 57,
+    "population": 93242,
+    "code": "E06000001",
+    "mortality_general": 91.1606357649986,
+    "mortality_restricted": 61.13124986594024
+  },
+  {
+    "deaths_general": 156,
+    "deaths_restricted": 83,
+    "population": 140545,
+    "code": "E06000002",
+    "mortality_general": 110.99647799637127,
+    "mortality_restricted": 59.05581842114625
+  },
+  {
+    "deaths_general": 124,
+    "deaths_restricted": 78,
+    "population": 136718,
+    "code": "E06000003",
+    "mortality_general": 90.69764039848447,
+    "mortality_restricted": 57.051741540982164
+  },
+  {
+    "deaths_general": 148,
+    "deaths_restricted": 108,
+    "population": 197213,
+    "code": "E06000004",
+    "mortality_general": 75.04576270327007,
+    "mortality_restricted": 54.7631241348187
+  },
+  {
+    "deaths_general": 60,
+    "deaths_restricted": 96,
+    "population": 106566,
+    "code": "E06000005",
+    "mortality_general": 56.30313608467991,
+    "mortality_restricted": 90.08501773548787
+  },
+  {
+    "deaths_general": 121,
+    "deaths_restricted": 50,
+    "population": 128432,
+    "code": "E06000006",
+    "mortality_general": 94.21328017939454,
+    "mortality_restricted": 38.93110751214651
+  },
+  {
+    "deaths_general": 197,
+    "deaths_restricted": 138,
+    "population": 209547,
+    "code": "E06000007",
+    "mortality_general": 94.01232181801696,
+    "mortality_restricted": 65.85634726338243
+  },
+  {
+    "deaths_general": 184,
+    "deaths_restricted": 17,
+    "population": 148942,
+    "code": "E06000008",
+    "mortality_general": 123.53802151172938,
+    "mortality_restricted": 11.413838944018478
+  },
+  {
+    "deaths_general": 181,
+    "deaths_restricted": 49,
+    "population": 139305,
+    "code": "E06000009",
+    "mortality_general": 129.9307275402893,
+    "mortality_restricted": 35.17461684792362
+  },
+  {
+    "deaths_general": 212,
+    "deaths_restricted": 124,
+    "population": 260645,
+    "code": "E06000010",
+    "mortality_general": 81.33668399547277,
+    "mortality_restricted": 47.57428686527653
+  },
+  {
+    "deaths_general": 276,
+    "deaths_restricted": 159,
+    "population": 339614,
+    "code": "E06000011",
+    "mortality_general": 81.26873450446683,
+    "mortality_restricted": 46.81785792105155
+  },
+  {
+    "deaths_general": 88,
+    "deaths_restricted": 60,
+    "population": 159821,
+    "code": "E06000012",
+    "mortality_general": 55.0616001651848,
+    "mortality_restricted": 37.542000112626
+  },
+  {
+    "deaths_general": 121,
+    "deaths_restricted": 33,
+    "population": 172005,
+    "code": "E06000013",
+    "mortality_general": 70.34679224441149,
+    "mortality_restricted": 19.18548879393041
+  },
+  {
+    "deaths_general": 103,
+    "deaths_restricted": 88,
+    "population": 209893,
+    "code": "E06000014",
+    "mortality_general": 49.072622717289285,
+    "mortality_restricted": 41.92612426331512
+  },
+  {
+    "deaths_general": 267,
+    "deaths_restricted": 134,
+    "population": 257174,
+    "code": "E06000015",
+    "mortality_general": 103.8207594857956,
+    "mortality_restricted": 52.104800640811284
+  },
+  {
+    "deaths_general": 309,
+    "deaths_restricted": 99,
+    "population": 355218,
+    "code": "E06000016",
+    "mortality_general": 86.9888350252521,
+    "mortality_restricted": 27.87020927993514
+  },
+  {
+    "deaths_general": 19,
+    "deaths_restricted": 15,
+    "population": 39697,
+    "code": "E06000017",
+    "mortality_general": 47.86255888354284,
+    "mortality_restricted": 37.78623069753382
+  },
+  {
+    "deaths_general": 273,
+    "deaths_restricted": 105,
+    "population": 331069,
+    "code": "E06000018",
+    "mortality_general": 82.46015181125384,
+    "mortality_restricted": 31.715443004328403
+  },
+  {
+    "deaths_general": 74,
+    "deaths_restricted": 69,
+    "population": 192107,
+    "code": "E06000019",
+    "mortality_general": 38.52019968038645,
+    "mortality_restricted": 35.91748348576574
+  },
+  {
+    "deaths_general": 85,
+    "deaths_restricted": 34,
+    "population": 177799,
+    "code": "E06000020",
+    "mortality_general": 47.80679306407798,
+    "mortality_restricted": 19.122717225631188
+  },
+  {
+    "deaths_general": 228,
+    "deaths_restricted": 85,
+    "population": 255833,
+    "code": "E06000021",
+    "mortality_general": 89.12063729073263,
+    "mortality_restricted": 33.22479898996611
+  },
+  {
+    "deaths_general": 47,
+    "deaths_restricted": 51,
+    "population": 192106,
+    "code": "E06000022",
+    "mortality_general": 24.465659583771462,
+    "mortality_restricted": 26.547843378134992
+  },
+  {
+    "deaths_general": 177,
+    "deaths_restricted": 129,
+    "population": 463405,
+    "code": "E06000023",
+    "mortality_general": 38.19553090708991,
+    "mortality_restricted": 27.837420830590954
+  },
+  {
+    "deaths_general": 115,
+    "deaths_restricted": 60,
+    "population": 213919,
+    "code": "E06000024",
+    "mortality_general": 53.75866566317158,
+    "mortality_restricted": 28.047999476437344
+  },
+  {
+    "deaths_general": 119,
+    "deaths_restricted": 87,
+    "population": 282644,
+    "code": "E06000025",
+    "mortality_general": 42.102432742248205,
+    "mortality_restricted": 30.780770156097425
+  },
+  {
+    "deaths_general": 72,
+    "deaths_restricted": 46,
+    "population": 263100,
+    "code": "E06000026",
+    "mortality_general": 27.366020524515395,
+    "mortality_restricted": 17.48384644621817
+  },
+  {
+    "deaths_general": 53,
+    "deaths_restricted": 40,
+    "population": 135780,
+    "code": "E06000027",
+    "mortality_general": 39.0337310354986,
+    "mortality_restricted": 29.459419649432906
+  },
+  {
+    "deaths_general": 117,
+    "deaths_restricted": 72,
+    "population": 221996,
+    "code": "E06000030",
+    "mortality_general": 52.70365231805978,
+    "mortality_restricted": 32.43301681111372
+  },
+  {
+    "deaths_general": 101,
+    "deaths_restricted": 34,
+    "population": 201041,
+    "code": "E06000031",
+    "mortality_general": 50.23850856292995,
+    "mortality_restricted": 16.91197317960018
+  },
+  {
+    "deaths_general": 226,
+    "deaths_restricted": 18,
+    "population": 214109,
+    "code": "E06000032",
+    "mortality_general": 105.55371329556442,
+    "mortality_restricted": 8.406932917345838
+  },
+  {
+    "deaths_general": 190,
+    "deaths_restricted": 36,
+    "population": 182463,
+    "code": "E06000033",
+    "mortality_general": 104.13070047078038,
+    "mortality_restricted": 19.730027457621546
+  },
+  {
+    "deaths_general": 200,
+    "deaths_restricted": 16,
+    "population": 172525,
+    "code": "E06000034",
+    "mortality_general": 115.92522822779308,
+    "mortality_restricted": 9.274018258223446
+  },
+  {
+    "deaths_general": 189,
+    "deaths_restricted": 48,
+    "population": 277855,
+    "code": "E06000035",
+    "mortality_general": 68.02109013694194,
+    "mortality_restricted": 17.275197495096364
+  },
+  {
+    "deaths_general": 70,
+    "deaths_restricted": 12,
+    "population": 121676,
+    "code": "E06000036",
+    "mortality_general": 57.529833327854305,
+    "mortality_restricted": 9.86225714191788
+  },
+  {
+    "deaths_general": 78,
+    "deaths_restricted": 65,
+    "population": 158527,
+    "code": "E06000037",
+    "mortality_general": 49.20297488755858,
+    "mortality_restricted": 41.002479072965485
+  },
+  {
+    "deaths_general": 121,
+    "deaths_restricted": 73,
+    "population": 163203,
+    "code": "E06000038",
+    "mortality_general": 74.1407939805028,
+    "mortality_restricted": 44.72956992212153
+  },
+  {
+    "deaths_general": 125,
+    "deaths_restricted": 14,
+    "population": 149112,
+    "code": "E06000039",
+    "mortality_general": 83.82960459252105,
+    "mortality_restricted": 9.388915714362359
+  },
+  {
+    "deaths_general": 95,
+    "deaths_restricted": 55,
+    "population": 150906,
+    "code": "E06000040",
+    "mortality_general": 62.95309662969,
+    "mortality_restricted": 36.446529627715265
+  },
+  {
+    "deaths_general": 92,
+    "deaths_restricted": 87,
+    "population": 167979,
+    "code": "E06000041",
+    "mortality_general": 54.76875085576173,
+    "mortality_restricted": 51.79218830925294
+  },
+  {
+    "deaths_general": 147,
+    "deaths_restricted": 81,
+    "population": 268607,
+    "code": "E06000042",
+    "mortality_general": 54.726794163964456,
+    "mortality_restricted": 30.1555804576947
+  },
+  {
+    "deaths_general": 106,
+    "deaths_restricted": 80,
+    "population": 290395,
+    "code": "E06000043",
+    "mortality_general": 36.50200588853114,
+    "mortality_restricted": 27.548683689457462
+  },
+  {
+    "deaths_general": 84,
+    "deaths_restricted": 45,
+    "population": 215133,
+    "code": "E06000044",
+    "mortality_general": 39.04561364365299,
+    "mortality_restricted": 20.917293023385533
+  },
+  {
+    "deaths_general": 124,
+    "deaths_restricted": 54,
+    "population": 252796,
+    "code": "E06000045",
+    "mortality_general": 49.0514090412823,
+    "mortality_restricted": 21.36109748571971
+  },
+  {
+    "deaths_general": 47,
+    "deaths_restricted": 48,
+    "population": 141538,
+    "code": "E06000046",
+    "mortality_general": 33.20663002161964,
+    "mortality_restricted": 33.91315406463282
+  },
+  {
+    "deaths_general": 382,
+    "deaths_restricted": 233,
+    "population": 380790,
+    "code": "E06000049",
+    "mortality_general": 100.31776044538985,
+    "mortality_restricted": 61.188581632921036
+  },
+  {
+    "deaths_general": 365,
+    "deaths_restricted": 137,
+    "population": 340502,
+    "code": "E06000050",
+    "mortality_general": 107.19467139693745,
+    "mortality_restricted": 40.23471227775461
+  },
+  {
+    "deaths_general": 195,
+    "deaths_restricted": 127,
+    "population": 320274,
+    "code": "E06000051",
+    "mortality_general": 60.88536690458795,
+    "mortality_restricted": 39.653546650680354
+  },
+  {
+    "deaths_general": 186,
+    "deaths_restricted": 225,
+    "population": 498064,
+    "code": "E06000054",
+    "mortality_general": 37.344598284557804,
+    "mortality_restricted": 45.174917279707024
+  },
+  {
+    "deaths_general": 179,
+    "deaths_restricted": 32,
+    "population": 171623,
+    "code": "E06000055",
+    "mortality_general": 104.29837492643759,
+    "mortality_restricted": 18.645519539921803
+  },
+  {
+    "deaths_general": 245,
+    "deaths_restricted": 63,
+    "population": 283606,
+    "code": "E06000056",
+    "mortality_general": 86.38745301580362,
+    "mortality_restricted": 22.21391648977807
+  },
+  {
+    "deaths_general": 251,
+    "deaths_restricted": 150,
+    "population": 320274,
+    "code": "E06000057",
+    "mortality_general": 78.37039534898244,
+    "mortality_restricted": 46.83489761891381
+  },
+  {
+    "deaths_general": 164,
+    "deaths_restricted": 108,
+    "population": 395784,
+    "code": "E06000058",
+    "mortality_general": 41.436743274109105,
+    "mortality_restricted": 27.287611424413317
+  },
+  {
+    "deaths_general": 108,
+    "deaths_restricted": 95,
+    "population": 376484,
+    "code": "E06000059",
+    "mortality_general": 28.686478044219676,
+    "mortality_restricted": 25.233476057415455
+  },
+  {
+    "deaths_general": 287,
+    "deaths_restricted": 177,
+    "population": 540059,
+    "code": "E06000060",
+    "mortality_general": 53.14234185524174,
+    "mortality_restricted": 32.774196893302395
+  },
+  {
+    "deaths_general": 78,
+    "deaths_restricted": 18,
+    "population": 97527,
+    "code": "E07000026",
+    "mortality_general": 79.97785228705897,
+    "mortality_restricted": 18.456427450859763
+  },
+  {
+    "deaths_general": 98,
+    "deaths_restricted": 32,
+    "population": 67137,
+    "code": "E07000027",
+    "mortality_general": 145.97018037743717,
+    "mortality_restricted": 47.66373236814275
+  },
+  {
+    "deaths_general": 104,
+    "deaths_restricted": 57,
+    "population": 108387,
+    "code": "E07000028",
+    "mortality_general": 95.95246662422616,
+    "mortality_restricted": 52.58933266904703
+  },
+  {
+    "deaths_general": 61,
+    "deaths_restricted": 26,
+    "population": 68424,
+    "code": "E07000029",
+    "mortality_general": 89.15000584590202,
+    "mortality_restricted": 37.99836314743365
+  },
+  {
+    "deaths_general": 45,
+    "deaths_restricted": 12,
+    "population": 52881,
+    "code": "E07000030",
+    "mortality_general": 85.09672661258297,
+    "mortality_restricted": 22.692460430022127
+  },
+  {
+    "deaths_general": 109,
+    "deaths_restricted": 76,
+    "population": 104532,
+    "code": "E07000031",
+    "mortality_general": 104.2742892128726,
+    "mortality_restricted": 72.70500899246164
+  },
+  {
+    "deaths_general": 106,
+    "deaths_restricted": 39,
+    "population": 126678,
+    "code": "E07000032",
+    "mortality_general": 83.67672366156712,
+    "mortality_restricted": 30.786719083029414
+  },
+  {
+    "deaths_general": 58,
+    "deaths_restricted": 35,
+    "population": 79530,
+    "code": "E07000033",
+    "mortality_general": 72.92845467119326,
+    "mortality_restricted": 44.00855023261662
+  },
+  {
+    "deaths_general": 64,
+    "deaths_restricted": 39,
+    "population": 104628,
+    "code": "E07000034",
+    "mortality_general": 61.16909431509729,
+    "mortality_restricted": 37.274916848262414
+  },
+  {
+    "deaths_general": 58,
+    "deaths_restricted": 41,
+    "population": 71977,
+    "code": "E07000035",
+    "mortality_general": 80.58129680314545,
+    "mortality_restricted": 56.96264084360282
+  },
+  {
+    "deaths_general": 106,
+    "deaths_restricted": 61,
+    "population": 115490,
+    "code": "E07000036",
+    "mortality_general": 91.78283834098191,
+    "mortality_restricted": 52.81842583773487
+  },
+  {
+    "deaths_general": 112,
+    "deaths_restricted": 60,
+    "population": 92221,
+    "code": "E07000037",
+    "mortality_general": 121.44739267628847,
+    "mortality_restricted": 65.06110321944026
+  },
+  {
+    "deaths_general": 95,
+    "deaths_restricted": 77,
+    "population": 101125,
+    "code": "E07000038",
+    "mortality_general": 93.94313967861557,
+    "mortality_restricted": 76.1433868974042
+  },
+  {
+    "deaths_general": 104,
+    "deaths_restricted": 39,
+    "population": 104493,
+    "code": "E07000039",
+    "mortality_general": 99.52819806111413,
+    "mortality_restricted": 37.3230742729178
+  },
+  {
+    "deaths_general": 29,
+    "deaths_restricted": 29,
+    "population": 144317,
+    "code": "E07000040",
+    "mortality_general": 20.09465274361302,
+    "mortality_restricted": 20.09465274361302
+  },
+  {
+    "deaths_general": 27,
+    "deaths_restricted": 21,
+    "population": 130428,
+    "code": "E07000041",
+    "mortality_general": 20.70107645597571,
+    "mortality_restricted": 16.100837243536663
+  },
+  {
+    "deaths_general": 21,
+    "deaths_restricted": 4,
+    "population": 81695,
+    "code": "E07000042",
+    "mortality_general": 25.705367525552358,
+    "mortality_restricted": 4.896260481057592
+  },
+  {
+    "deaths_general": 21,
+    "deaths_restricted": 11,
+    "population": 96110,
+    "code": "E07000043",
+    "mortality_general": 21.84996358339403,
+    "mortality_restricted": 11.445219019873061
+  },
+  {
+    "deaths_general": 17,
+    "deaths_restricted": 2,
+    "population": 86221,
+    "code": "E07000044",
+    "mortality_general": 19.71677433571868,
+    "mortality_restricted": 2.31962051008455
+  },
+  {
+    "deaths_general": 31,
+    "deaths_restricted": 15,
+    "population": 132844,
+    "code": "E07000045",
+    "mortality_general": 23.33564180542591,
+    "mortality_restricted": 11.291439583270604
+  },
+  {
+    "deaths_general": 19,
+    "deaths_restricted": 8,
+    "population": 68143,
+    "code": "E07000046",
+    "mortality_general": 27.882541126748162,
+    "mortality_restricted": 11.740017316525542
+  },
+  {
+    "deaths_general": 15,
+    "deaths_restricted": 7,
+    "population": 55528,
+    "code": "E07000047",
+    "mortality_general": 27.01339864572828,
+    "mortality_restricted": 12.606252701339864
+  },
+  {
+    "deaths_general": 43,
+    "deaths_restricted": 39,
+    "population": 103160,
+    "code": "E07000061",
+    "mortality_general": 41.682822799534705,
+    "mortality_restricted": 37.80535091120589
+  },
+  {
+    "deaths_general": 12,
+    "deaths_restricted": 2,
+    "population": 92855,
+    "code": "E07000062",
+    "mortality_general": 12.923375154811264,
+    "mortality_restricted": 2.153895859135211
+  },
+  {
+    "deaths_general": 69,
+    "deaths_restricted": 57,
+    "population": 102744,
+    "code": "E07000063",
+    "mortality_general": 67.15720626021957,
+    "mortality_restricted": 55.477692128007476
+  },
+  {
+    "deaths_general": 39,
+    "deaths_restricted": 30,
+    "population": 95656,
+    "code": "E07000064",
+    "mortality_general": 40.771096428870116,
+    "mortality_restricted": 31.36238186836163
+  },
+  {
+    "deaths_general": 81,
+    "deaths_restricted": 59,
+    "population": 160175,
+    "code": "E07000065",
+    "mortality_general": 50.569689402216326,
+    "mortality_restricted": 36.834712033713124
+  },
+  {
+    "deaths_general": 227,
+    "deaths_restricted": 32,
+    "population": 185862,
+    "code": "E07000066",
+    "mortality_general": 122.13362602360891,
+    "mortality_restricted": 17.217075034165134
+  },
+  {
+    "deaths_general": 105,
+    "deaths_restricted": 32,
+    "population": 151561,
+    "code": "E07000067",
+    "mortality_general": 69.27903616365688,
+    "mortality_restricted": 21.11361102130495
+  },
+  {
+    "deaths_general": 100,
+    "deaths_restricted": 15,
+    "population": 76550,
+    "code": "E07000068",
+    "mortality_general": 130.63357282821687,
+    "mortality_restricted": 19.595035924232526
+  },
+  {
+    "deaths_general": 100,
+    "deaths_restricted": 11,
+    "population": 90070,
+    "code": "E07000069",
+    "mortality_general": 111.0247585211502,
+    "mortality_restricted": 12.212723437326524
+  },
+  {
+    "deaths_general": 133,
+    "deaths_restricted": 31,
+    "population": 177079,
+    "code": "E07000070",
+    "mortality_general": 75.10772028303752,
+    "mortality_restricted": 17.50631074266288
+  },
+  {
+    "deaths_general": 108,
+    "deaths_restricted": 45,
+    "population": 192523,
+    "code": "E07000071",
+    "mortality_general": 56.09719358206552,
+    "mortality_restricted": 23.373830659193967
+  },
+  {
+    "deaths_general": 154,
+    "deaths_restricted": 44,
+    "population": 131137,
+    "code": "E07000072",
+    "mortality_general": 117.43443879301799,
+    "mortality_restricted": 33.552696798005144
+  },
+  {
+    "deaths_general": 77,
+    "deaths_restricted": 7,
+    "population": 86594,
+    "code": "E07000073",
+    "mortality_general": 88.920710441832,
+    "mortality_restricted": 8.083700949257455
+  },
+  {
+    "deaths_general": 34,
+    "deaths_restricted": 5,
+    "population": 64425,
+    "code": "E07000074",
+    "mortality_general": 52.77454404346138,
+    "mortality_restricted": 7.760962359332558
+  },
+  {
+    "deaths_general": 89,
+    "deaths_restricted": 13,
+    "population": 86981,
+    "code": "E07000075",
+    "mortality_general": 102.32119658316185,
+    "mortality_restricted": 14.945792759338245
+  },
+  {
+    "deaths_general": 159,
+    "deaths_restricted": 49,
+    "population": 145803,
+    "code": "E07000076",
+    "mortality_general": 109.05125408942203,
+    "mortality_restricted": 33.606990253972825
+  },
+  {
+    "deaths_general": 47,
+    "deaths_restricted": 18,
+    "population": 89179,
+    "code": "E07000077",
+    "mortality_general": 52.70299061438231,
+    "mortality_restricted": 20.184124065082585
+  },
+  {
+    "deaths_general": 58,
+    "deaths_restricted": 90,
+    "population": 117090,
+    "code": "E07000078",
+    "mortality_general": 49.534546075668295,
+    "mortality_restricted": 76.86395080707149
+  },
+  {
+    "deaths_general": 45,
+    "deaths_restricted": 33,
+    "population": 89022,
+    "code": "E07000079",
+    "mortality_general": 50.549302419626606,
+    "mortality_restricted": 37.06948844105951
+  },
+  {
+    "deaths_general": 47,
+    "deaths_restricted": 7,
+    "population": 86543,
+    "code": "E07000080",
+    "mortality_general": 54.30826294443225,
+    "mortality_restricted": 8.088464693851611
+  },
+  {
+    "deaths_general": 85,
+    "deaths_restricted": 78,
+    "population": 129285,
+    "code": "E07000081",
+    "mortality_general": 65.74621959237344,
+    "mortality_restricted": 60.3318250377074
+  },
+  {
+    "deaths_general": 69,
+    "deaths_restricted": 43,
+    "population": 119019,
+    "code": "E07000082",
+    "mortality_general": 57.97393693443904,
+    "mortality_restricted": 36.12868533595476
+  },
+  {
+    "deaths_general": 55,
+    "deaths_restricted": 58,
+    "population": 92599,
+    "code": "E07000083",
+    "mortality_general": 59.39588980442553,
+    "mortality_restricted": 62.63566561193966
+  },
+  {
+    "deaths_general": 101,
+    "deaths_restricted": 39,
+    "population": 175729,
+    "code": "E07000084",
+    "mortality_general": 57.474861861161216,
+    "mortality_restricted": 22.193263490943444
+  },
+  {
+    "deaths_general": 47,
+    "deaths_restricted": 43,
+    "population": 120681,
+    "code": "E07000085",
+    "mortality_general": 38.94565010233591,
+    "mortality_restricted": 35.63112668937115
+  },
+  {
+    "deaths_general": 58,
+    "deaths_restricted": 51,
+    "population": 131819,
+    "code": "E07000086",
+    "mortality_general": 43.999726898246834,
+    "mortality_restricted": 38.689415031217045
+  },
+  {
+    "deaths_general": 73,
+    "deaths_restricted": 38,
+    "population": 116339,
+    "code": "E07000087",
+    "mortality_general": 62.74765985611016,
+    "mortality_restricted": 32.6631654045505
+  },
+  {
+    "deaths_general": 36,
+    "deaths_restricted": 28,
+    "population": 85283,
+    "code": "E07000088",
+    "mortality_general": 42.21239871955724,
+    "mortality_restricted": 32.831865670766746
+  },
+  {
+    "deaths_general": 37,
+    "deaths_restricted": 15,
+    "population": 96293,
+    "code": "E07000089",
+    "mortality_general": 38.42439221957982,
+    "mortality_restricted": 15.577456305235064
+  },
+  {
+    "deaths_general": 88,
+    "deaths_restricted": 42,
+    "population": 125813,
+    "code": "E07000090",
+    "mortality_general": 69.94507721777559,
+    "mortality_restricted": 33.382877763029256
+  },
+  {
+    "deaths_general": 77,
+    "deaths_restricted": 74,
+    "population": 179753,
+    "code": "E07000091",
+    "mortality_general": 42.836559056038006,
+    "mortality_restricted": 41.16760220969886
+  },
+  {
+    "deaths_general": 46,
+    "deaths_restricted": 42,
+    "population": 95142,
+    "code": "E07000092",
+    "mortality_general": 48.348783922978285,
+    "mortality_restricted": 44.1445418427193
+  },
+  {
+    "deaths_general": 62,
+    "deaths_restricted": 72,
+    "population": 125169,
+    "code": "E07000093",
+    "mortality_general": 49.53303134162613,
+    "mortality_restricted": 57.522229945114205
+  },
+  {
+    "deaths_general": 66,
+    "deaths_restricted": 60,
+    "population": 124295,
+    "code": "E07000094",
+    "mortality_general": 53.099481073253145,
+    "mortality_restricted": 48.27225552113923
+  },
+  {
+    "deaths_general": 69,
+    "deaths_restricted": 21,
+    "population": 96876,
+    "code": "E07000095",
+    "mortality_general": 71.22507122507123,
+    "mortality_restricted": 21.67719559023907
+  },
+  {
+    "deaths_general": 115,
+    "deaths_restricted": 27,
+    "population": 154280,
+    "code": "E07000096",
+    "mortality_general": 74.53979777028779,
+    "mortality_restricted": 17.500648172154524
+  },
+  {
+    "deaths_general": 158,
+    "deaths_restricted": 47,
+    "population": 104205,
+    "code": "E07000098",
+    "mortality_general": 151.62420229355598,
+    "mortality_restricted": 45.10340194808311
+  },
+  {
+    "deaths_general": 60,
+    "deaths_restricted": 44,
+    "population": 133214,
+    "code": "E07000099",
+    "mortality_general": 45.04031107841518,
+    "mortality_restricted": 33.029561457504464
+  },
+  {
+    "deaths_general": 82,
+    "deaths_restricted": 22,
+    "population": 93045,
+    "code": "E07000102",
+    "mortality_general": 88.12939975280779,
+    "mortality_restricted": 23.644473104411844
+  },
+  {
+    "deaths_general": 112,
+    "deaths_restricted": 31,
+    "population": 96767,
+    "code": "E07000103",
+    "mortality_general": 115.74193681730341,
+    "mortality_restricted": 32.03571465478934
+  },
+  {
+    "deaths_general": 107,
+    "deaths_restricted": 77,
+    "population": 129281,
+    "code": "E07000105",
+    "mortality_general": 82.76544890587171,
+    "mortality_restricted": 59.56018285749646
+  },
+  {
+    "deaths_general": 101,
+    "deaths_restricted": 46,
+    "population": 164553,
+    "code": "E07000106",
+    "mortality_general": 61.37840087995965,
+    "mortality_restricted": 27.95451921265489
+  },
+  {
+    "deaths_general": 108,
+    "deaths_restricted": 29,
+    "population": 109709,
+    "code": "E07000107",
+    "mortality_general": 98.44224266012816,
+    "mortality_restricted": 26.433565158738116
+  },
+  {
+    "deaths_general": 104,
+    "deaths_restricted": 40,
+    "population": 116969,
+    "code": "E07000108",
+    "mortality_general": 88.9124468876369,
+    "mortality_restricted": 34.197094956783424
+  },
+  {
+    "deaths_general": 110,
+    "deaths_restricted": 16,
+    "population": 106385,
+    "code": "E07000109",
+    "mortality_general": 103.3980354373267,
+    "mortality_restricted": 15.039714245429337
+  },
+  {
+    "deaths_general": 82,
+    "deaths_restricted": 41,
+    "population": 169955,
+    "code": "E07000110",
+    "mortality_general": 48.24806566444059,
+    "mortality_restricted": 24.124032832220294
+  },
+  {
+    "deaths_general": 79,
+    "deaths_restricted": 42,
+    "population": 120293,
+    "code": "E07000111",
+    "mortality_general": 65.67298180276492,
+    "mortality_restricted": 34.91474981919148
+  },
+  {
+    "deaths_general": 112,
+    "deaths_restricted": 47,
+    "population": 112578,
+    "code": "E07000112",
+    "mortality_general": 99.48657819467391,
+    "mortality_restricted": 41.748831920979235
+  },
+  {
+    "deaths_general": 133,
+    "deaths_restricted": 41,
+    "population": 148519,
+    "code": "E07000113",
+    "mortality_general": 89.55083188009615,
+    "mortality_restricted": 27.605895541984527
+  },
+  {
+    "deaths_general": 121,
+    "deaths_restricted": 63,
+    "population": 141819,
+    "code": "E07000114",
+    "mortality_general": 85.3200205896248,
+    "mortality_restricted": 44.422820637573246
+  },
+  {
+    "deaths_general": 51,
+    "deaths_restricted": 34,
+    "population": 130508,
+    "code": "E07000115",
+    "mortality_general": 39.078064179973644,
+    "mortality_restricted": 26.052042786649096
+  },
+  {
+    "deaths_general": 37,
+    "deaths_restricted": 52,
+    "population": 118054,
+    "code": "E07000116",
+    "mortality_general": 31.34158944211971,
+    "mortality_restricted": 44.047639215952024
+  },
+  {
+    "deaths_general": 102,
+    "deaths_restricted": 35,
+    "population": 88527,
+    "code": "E07000117",
+    "mortality_general": 115.21908570266699,
+    "mortality_restricted": 39.5359607803269
+  },
+  {
+    "deaths_general": 127,
+    "deaths_restricted": 29,
+    "population": 116821,
+    "code": "E07000118",
+    "mortality_general": 108.71333065116717,
+    "mortality_restricted": 24.824303849479115
+  },
+  {
+    "deaths_general": 92,
+    "deaths_restricted": 42,
+    "population": 79770,
+    "code": "E07000119",
+    "mortality_general": 115.33157828757679,
+    "mortality_restricted": 52.65137269650245
+  },
+  {
+    "deaths_general": 86,
+    "deaths_restricted": 26,
+    "population": 80815,
+    "code": "E07000120",
+    "mortality_general": 106.41588813957806,
+    "mortality_restricted": 32.17224525150034
+  },
+  {
+    "deaths_general": 88,
+    "deaths_restricted": 34,
+    "population": 144246,
+    "code": "E07000121",
+    "mortality_general": 61.00689100564313,
+    "mortality_restricted": 23.570844252180304
+  },
+  {
+    "deaths_general": 126,
+    "deaths_restricted": 26,
+    "population": 91405,
+    "code": "E07000122",
+    "mortality_general": 137.84803894754117,
+    "mortality_restricted": 28.444833433619607
+  },
+  {
+    "deaths_general": 161,
+    "deaths_restricted": 39,
+    "population": 141818,
+    "code": "E07000123",
+    "mortality_general": 113.52578657152124,
+    "mortality_restricted": 27.500035256455455
+  },
+  {
+    "deaths_general": 49,
+    "deaths_restricted": 16,
+    "population": 60057,
+    "code": "E07000124",
+    "mortality_general": 81.5891569675475,
+    "mortality_restricted": 26.641357377158364
+  },
+  {
+    "deaths_general": 72,
+    "deaths_restricted": 16,
+    "population": 70895,
+    "code": "E07000125",
+    "mortality_general": 101.55864306368574,
+    "mortality_restricted": 22.568587347485717
+  },
+  {
+    "deaths_general": 104,
+    "deaths_restricted": 20,
+    "population": 110527,
+    "code": "E07000126",
+    "mortality_general": 94.09465560451292,
+    "mortality_restricted": 18.095126077790948
+  },
+  {
+    "deaths_general": 138,
+    "deaths_restricted": 50,
+    "population": 113949,
+    "code": "E07000127",
+    "mortality_general": 121.10681094173711,
+    "mortality_restricted": 43.87927932671634
+  },
+  {
+    "deaths_general": 161,
+    "deaths_restricted": 42,
+    "population": 111223,
+    "code": "E07000128",
+    "mortality_general": 144.7542324878847,
+    "mortality_restricted": 37.76197369249166
+  },
+  {
+    "deaths_general": 78,
+    "deaths_restricted": 28,
+    "population": 100421,
+    "code": "E07000129",
+    "mortality_general": 77.67299668396052,
+    "mortality_restricted": 27.88261419424224
+  },
+  {
+    "deaths_general": 112,
+    "deaths_restricted": 45,
+    "population": 182643,
+    "code": "E07000130",
+    "mortality_general": 61.321813592637,
+    "mortality_restricted": 24.638228675613078
+  },
+  {
+    "deaths_general": 51,
+    "deaths_restricted": 32,
+    "population": 92499,
+    "code": "E07000131",
+    "mortality_general": 55.135731197094024,
+    "mortality_restricted": 34.59496859425507
+  },
+  {
+    "deaths_general": 77,
+    "deaths_restricted": 46,
+    "population": 112423,
+    "code": "E07000132",
+    "mortality_general": 68.49132294993017,
+    "mortality_restricted": 40.916894229828415
+  },
+  {
+    "deaths_general": 23,
+    "deaths_restricted": 25,
+    "population": 51100,
+    "code": "E07000133",
+    "mortality_general": 45.00978473581213,
+    "mortality_restricted": 48.92367906066536
+  },
+  {
+    "deaths_general": 76,
+    "deaths_restricted": 18,
+    "population": 102126,
+    "code": "E07000134",
+    "mortality_general": 74.41787595715097,
+    "mortality_restricted": 17.625286410904177
+  },
+  {
+    "deaths_general": 54,
+    "deaths_restricted": 21,
+    "population": 57056,
+    "code": "E07000135",
+    "mortality_general": 94.64385866517105,
+    "mortality_restricted": 36.80594503645541
+  },
+  {
+    "deaths_general": 48,
+    "deaths_restricted": 13,
+    "population": 69366,
+    "code": "E07000136",
+    "mortality_general": 69.1981662485944,
+    "mortality_restricted": 18.74117002566099
+  },
+  {
+    "deaths_general": 107,
+    "deaths_restricted": 33,
+    "population": 140741,
+    "code": "E07000137",
+    "mortality_general": 76.02617574125522,
+    "mortality_restricted": 23.447325228611422
+  },
+  {
+    "deaths_general": 31,
+    "deaths_restricted": 16,
+    "population": 99039,
+    "code": "E07000138",
+    "mortality_general": 31.300800694675836,
+    "mortality_restricted": 16.155251971445594
+  },
+  {
+    "deaths_general": 45,
+    "deaths_restricted": 30,
+    "population": 115985,
+    "code": "E07000139",
+    "mortality_general": 38.798120446609474,
+    "mortality_restricted": 25.865413631072983
+  },
+  {
+    "deaths_general": 67,
+    "deaths_restricted": 20,
+    "population": 93980,
+    "code": "E07000140",
+    "mortality_general": 71.29176420515003,
+    "mortality_restricted": 21.281123643328367
+  },
+  {
+    "deaths_general": 67,
+    "deaths_restricted": 29,
+    "population": 141853,
+    "code": "E07000141",
+    "mortality_general": 47.23199368360204,
+    "mortality_restricted": 20.443698758574016
+  },
+  {
+    "deaths_general": 37,
+    "deaths_restricted": 14,
+    "population": 94869,
+    "code": "E07000142",
+    "mortality_general": 39.00114895276644,
+    "mortality_restricted": 14.757191495641358
+  },
+  {
+    "deaths_general": 59,
+    "deaths_restricted": 39,
+    "population": 139329,
+    "code": "E07000143",
+    "mortality_general": 42.34581458275018,
+    "mortality_restricted": 27.991301164868762
+  },
+  {
+    "deaths_general": 51,
+    "deaths_restricted": 32,
+    "population": 129464,
+    "code": "E07000144",
+    "mortality_general": 39.39319038497189,
+    "mortality_restricted": 24.717295927825496
+  },
+  {
+    "deaths_general": 56,
+    "deaths_restricted": 11,
+    "population": 99370,
+    "code": "E07000145",
+    "mortality_general": 56.35503673140787,
+    "mortality_restricted": 11.069739357955116
+  },
+  {
+    "deaths_general": 125,
+    "deaths_restricted": 28,
+    "population": 151811,
+    "code": "E07000146",
+    "mortality_general": 82.33922443037724,
+    "mortality_restricted": 18.443986272404505
+  },
+  {
+    "deaths_general": 47,
+    "deaths_restricted": 12,
+    "population": 104552,
+    "code": "E07000147",
+    "mortality_general": 44.95370724615502,
+    "mortality_restricted": 11.477542275614049
+  },
+  {
+    "deaths_general": 18,
+    "deaths_restricted": 11,
+    "population": 141137,
+    "code": "E07000148",
+    "mortality_general": 12.753565684405931,
+    "mortality_restricted": 7.793845696025848
+  },
+  {
+    "deaths_general": 27,
+    "deaths_restricted": 36,
+    "population": 138017,
+    "code": "E07000149",
+    "mortality_general": 19.562807480237943,
+    "mortality_restricted": 26.08374330698392
+  },
+  {
+    "deaths_general": 58,
+    "deaths_restricted": 6,
+    "population": 70827,
+    "code": "E07000150",
+    "mortality_general": 81.88967484151524,
+    "mortality_restricted": 8.471345673260197
+  },
+  {
+    "deaths_general": 75,
+    "deaths_restricted": 17,
+    "population": 84484,
+    "code": "E07000151",
+    "mortality_general": 88.77420576677241,
+    "mortality_restricted": 20.12215330713508
+  },
+  {
+    "deaths_general": 81,
+    "deaths_restricted": 34,
+    "population": 93906,
+    "code": "E07000152",
+    "mortality_general": 86.25646923519264,
+    "mortality_restricted": 36.20641918514259
+  },
+  {
+    "deaths_general": 85,
+    "deaths_restricted": 26,
+    "population": 101266,
+    "code": "E07000153",
+    "mortality_general": 83.93735310963206,
+    "mortality_restricted": 25.674955068828627
+  },
+  {
+    "deaths_general": 238,
+    "deaths_restricted": 68,
+    "population": 225146,
+    "code": "E07000154",
+    "mortality_general": 105.70918426265622,
+    "mortality_restricted": 30.20262407504464
+  },
+  {
+    "deaths_general": 56,
+    "deaths_restricted": 14,
+    "population": 92515,
+    "code": "E07000155",
+    "mortality_general": 60.530724747338276,
+    "mortality_restricted": 15.132681186834569
+  },
+  {
+    "deaths_general": 67,
+    "deaths_restricted": 15,
+    "population": 79478,
+    "code": "E07000156",
+    "mortality_general": 84.30005787765167,
+    "mortality_restricted": 18.873147286041423
+  },
+  {
+    "deaths_general": 49,
+    "deaths_restricted": 35,
+    "population": 56832,
+    "code": "E07000163",
+    "mortality_general": 86.21903153153153,
+    "mortality_restricted": 61.58502252252252
+  },
+  {
+    "deaths_general": 58,
+    "deaths_restricted": 37,
+    "population": 91134,
+    "code": "E07000164",
+    "mortality_general": 63.64254833541818,
+    "mortality_restricted": 40.599556696732286
+  },
+  {
+    "deaths_general": 107,
+    "deaths_restricted": 117,
+    "population": 160533,
+    "code": "E07000165",
+    "mortality_general": 66.65296231927393,
+    "mortality_restricted": 72.88221113415933
+  },
+  {
+    "deaths_general": 30,
+    "deaths_restricted": 26,
+    "population": 53244,
+    "code": "E07000166",
+    "mortality_general": 56.34437683119225,
+    "mortality_restricted": 48.83179325369995
+  },
+  {
+    "deaths_general": 30,
+    "deaths_restricted": 9,
+    "population": 54920,
+    "code": "E07000167",
+    "mortality_general": 54.624908958485065,
+    "mortality_restricted": 16.387472687545518
+  },
+  {
+    "deaths_general": 86,
+    "deaths_restricted": 43,
+    "population": 108736,
+    "code": "E07000168",
+    "mortality_general": 79.0906415538552,
+    "mortality_restricted": 39.5453207769276
+  },
+  {
+    "deaths_general": 45,
+    "deaths_restricted": 18,
+    "population": 89106,
+    "code": "E07000169",
+    "mortality_general": 50.50164972055754,
+    "mortality_restricted": 20.200659888223015
+  },
+  {
+    "deaths_general": 124,
+    "deaths_restricted": 63,
+    "population": 127151,
+    "code": "E07000170",
+    "mortality_general": 97.5218441066134,
+    "mortality_restricted": 49.54738853803745
+  },
+  {
+    "deaths_general": 81,
+    "deaths_restricted": 37,
+    "population": 116839,
+    "code": "E07000171",
+    "mortality_general": 69.32616677650442,
+    "mortality_restricted": 31.66750828062548
+  },
+  {
+    "deaths_general": 87,
+    "deaths_restricted": 52,
+    "population": 113272,
+    "code": "E07000172",
+    "mortality_general": 76.80627162935235,
+    "mortality_restricted": 45.90719683593474
+  },
+  {
+    "deaths_general": 111,
+    "deaths_restricted": 63,
+    "population": 117786,
+    "code": "E07000173",
+    "mortality_general": 94.23870409046916,
+    "mortality_restricted": 53.486832051347356
+  },
+  {
+    "deaths_general": 77,
+    "deaths_restricted": 36,
+    "population": 108841,
+    "code": "E07000174",
+    "mortality_general": 70.74539925212007,
+    "mortality_restricted": 33.07577107891328
+  },
+  {
+    "deaths_general": 76,
+    "deaths_restricted": 36,
+    "population": 121566,
+    "code": "E07000175",
+    "mortality_general": 62.517480216507906,
+    "mortality_restricted": 29.613543260451113
+  },
+  {
+    "deaths_general": 69,
+    "deaths_restricted": 54,
+    "population": 117671,
+    "code": "E07000176",
+    "mortality_general": 58.6380671533343,
+    "mortality_restricted": 45.890661250435535
+  },
+  {
+    "deaths_general": 54,
+    "deaths_restricted": 65,
+    "population": 149161,
+    "code": "E07000177",
+    "mortality_general": 36.202492608657764,
+    "mortality_restricted": 43.5770744363473
+  },
+  {
+    "deaths_general": 47,
+    "deaths_restricted": 33,
+    "population": 154327,
+    "code": "E07000178",
+    "mortality_general": 30.4548134804668,
+    "mortality_restricted": 21.383166911817117
+  },
+  {
+    "deaths_general": 61,
+    "deaths_restricted": 65,
+    "population": 140504,
+    "code": "E07000179",
+    "mortality_general": 43.415134088709216,
+    "mortality_restricted": 46.2620281273131
+  },
+  {
+    "deaths_general": 60,
+    "deaths_restricted": 67,
+    "population": 133732,
+    "code": "E07000180",
+    "mortality_general": 44.86585110519547,
+    "mortality_restricted": 50.1002004008016
+  },
+  {
+    "deaths_general": 48,
+    "deaths_restricted": 77,
+    "population": 109800,
+    "code": "E07000181",
+    "mortality_general": 43.71584699453552,
+    "mortality_restricted": 70.12750455373406
+  },
+  {
+    "deaths_general": 22,
+    "deaths_restricted": 13,
+    "population": 114881,
+    "code": "E07000187",
+    "mortality_general": 19.150251129429584,
+    "mortality_restricted": 11.316057485572028
+  },
+  {
+    "deaths_general": 63,
+    "deaths_restricted": 25,
+    "population": 122791,
+    "code": "E07000188",
+    "mortality_general": 51.306691858523834,
+    "mortality_restricted": 20.359798356557075
+  },
+  {
+    "deaths_general": 37,
+    "deaths_restricted": 35,
+    "population": 167861,
+    "code": "E07000189",
+    "mortality_general": 22.042046693395132,
+    "mortality_restricted": 20.850584709968366
+  },
+  {
+    "deaths_general": 85,
+    "deaths_restricted": 25,
+    "population": 100109,
+    "code": "E07000192",
+    "mortality_general": 84.90745087854239,
+    "mortality_restricted": 24.972779670159525
+  },
+  {
+    "deaths_general": 159,
+    "deaths_restricted": 49,
+    "population": 118574,
+    "code": "E07000193",
+    "mortality_general": 134.09347749084958,
+    "mortality_restricted": 41.324405012903334
+  },
+  {
+    "deaths_general": 122,
+    "deaths_restricted": 33,
+    "population": 103965,
+    "code": "E07000194",
+    "mortality_general": 117.34718414851153,
+    "mortality_restricted": 31.74145145000721
+  },
+  {
+    "deaths_general": 131,
+    "deaths_restricted": 56,
+    "population": 129490,
+    "code": "E07000195",
+    "mortality_general": 101.16611321337554,
+    "mortality_restricted": 43.246582747702526
+  },
+  {
+    "deaths_general": 92,
+    "deaths_restricted": 36,
+    "population": 112126,
+    "code": "E07000196",
+    "mortality_general": 82.05055027379912,
+    "mortality_restricted": 32.106737063660525
+  },
+  {
+    "deaths_general": 115,
+    "deaths_restricted": 52,
+    "population": 135880,
+    "code": "E07000197",
+    "mortality_general": 84.6335001471887,
+    "mortality_restricted": 38.269060936120106
+  },
+  {
+    "deaths_general": 87,
+    "deaths_restricted": 24,
+    "population": 98397,
+    "code": "E07000198",
+    "mortality_general": 88.41732979664013,
+    "mortality_restricted": 24.390987530107626
+  },
+  {
+    "deaths_general": 92,
+    "deaths_restricted": 10,
+    "population": 76678,
+    "code": "E07000199",
+    "mortality_general": 119.98226349148388,
+    "mortality_restricted": 13.041550379509117
+  },
+  {
+    "deaths_general": 44,
+    "deaths_restricted": 46,
+    "population": 91401,
+    "code": "E07000200",
+    "mortality_general": 48.13951707311736,
+    "mortality_restricted": 50.32767694007725
+  },
+  {
+    "deaths_general": 89,
+    "deaths_restricted": 41,
+    "population": 137532,
+    "code": "E07000202",
+    "mortality_general": 64.7122124305616,
+    "mortality_restricted": 29.81124392868569
+  },
+  {
+    "deaths_general": 55,
+    "deaths_restricted": 27,
+    "population": 102493,
+    "code": "E07000203",
+    "mortality_general": 53.66220132106583,
+    "mortality_restricted": 26.343262466705042
+  },
+  {
+    "deaths_general": 86,
+    "deaths_restricted": 44,
+    "population": 136626,
+    "code": "E07000207",
+    "mortality_general": 62.945559410361135,
+    "mortality_restricted": 32.204704814603375
+  },
+  {
+    "deaths_general": 71,
+    "deaths_restricted": 17,
+    "population": 79928,
+    "code": "E07000208",
+    "mortality_general": 88.82994695225703,
+    "mortality_restricted": 21.269142228005204
+  },
+  {
+    "deaths_general": 69,
+    "deaths_restricted": 36,
+    "population": 147889,
+    "code": "E07000209",
+    "mortality_general": 46.65661408218325,
+    "mortality_restricted": 24.34258126026953
+  },
+  {
+    "deaths_general": 75,
+    "deaths_restricted": 36,
+    "population": 87253,
+    "code": "E07000210",
+    "mortality_general": 85.95692984768432,
+    "mortality_restricted": 41.25932632688847
+  },
+  {
+    "deaths_general": 129,
+    "deaths_restricted": 74,
+    "population": 147757,
+    "code": "E07000211",
+    "mortality_general": 87.30550836846986,
+    "mortality_restricted": 50.082229606719146
+  },
+  {
+    "deaths_general": 63,
+    "deaths_restricted": 20,
+    "population": 88000,
+    "code": "E07000212",
+    "mortality_general": 71.5909090909091,
+    "mortality_restricted": 22.727272727272727
+  },
+  {
+    "deaths_general": 76,
+    "deaths_restricted": 30,
+    "population": 99334,
+    "code": "E07000213",
+    "mortality_general": 76.50955362715686,
+    "mortality_restricted": 30.201139589667182
+  },
+  {
+    "deaths_general": 51,
+    "deaths_restricted": 42,
+    "population": 88874,
+    "code": "E07000214",
+    "mortality_general": 57.38461192249702,
+    "mortality_restricted": 47.2579157008799
+  },
+  {
+    "deaths_general": 64,
+    "deaths_restricted": 31,
+    "population": 87496,
+    "code": "E07000215",
+    "mortality_general": 73.14620096918716,
+    "mortality_restricted": 35.43019109445003
+  },
+  {
+    "deaths_general": 76,
+    "deaths_restricted": 77,
+    "population": 125610,
+    "code": "E07000216",
+    "mortality_general": 60.50473688400606,
+    "mortality_restricted": 61.30085184300613
+  },
+  {
+    "deaths_general": 69,
+    "deaths_restricted": 20,
+    "population": 101167,
+    "code": "E07000217",
+    "mortality_general": 68.20405863572114,
+    "mortality_restricted": 19.76929235818004
+  },
+  {
+    "deaths_general": 67,
+    "deaths_restricted": 32,
+    "population": 64850,
+    "code": "E07000218",
+    "mortality_general": 103.31534309946028,
+    "mortality_restricted": 49.34464148033924
+  },
+  {
+    "deaths_general": 147,
+    "deaths_restricted": 33,
+    "population": 128902,
+    "code": "E07000219",
+    "mortality_general": 114.04012350467796,
+    "mortality_restricted": 25.600844052070563
+  },
+  {
+    "deaths_general": 44,
+    "deaths_restricted": 44,
+    "population": 107194,
+    "code": "E07000220",
+    "mortality_general": 41.047073530234904,
+    "mortality_restricted": 41.047073530234904
+  },
+  {
+    "deaths_general": 89,
+    "deaths_restricted": 95,
+    "population": 127580,
+    "code": "E07000221",
+    "mortality_general": 69.7601504938078,
+    "mortality_restricted": 74.46308198777238
+  },
+  {
+    "deaths_general": 68,
+    "deaths_restricted": 36,
+    "population": 142484,
+    "code": "E07000222",
+    "mortality_general": 47.72465680357092,
+    "mortality_restricted": 25.26599477836108
+  },
+  {
+    "deaths_general": 22,
+    "deaths_restricted": 22,
+    "population": 63869,
+    "code": "E07000223",
+    "mortality_general": 34.44550564436581,
+    "mortality_restricted": 34.44550564436581
+  },
+  {
+    "deaths_general": 42,
+    "deaths_restricted": 36,
+    "population": 159827,
+    "code": "E07000224",
+    "mortality_general": 26.278413534634325,
+    "mortality_restricted": 22.52435445825799
+  },
+  {
+    "deaths_general": 36,
+    "deaths_restricted": 48,
+    "population": 120750,
+    "code": "E07000225",
+    "mortality_general": 29.81366459627329,
+    "mortality_restricted": 39.75155279503105
+  },
+  {
+    "deaths_general": 64,
+    "deaths_restricted": 23,
+    "population": 112448,
+    "code": "E07000226",
+    "mortality_general": 56.91519635742743,
+    "mortality_restricted": 20.453898690950485
+  },
+  {
+    "deaths_general": 75,
+    "deaths_restricted": 59,
+    "population": 142217,
+    "code": "E07000227",
+    "mortality_general": 52.73631141143464,
+    "mortality_restricted": 41.48589831032859
+  },
+  {
+    "deaths_general": 87,
+    "deaths_restricted": 99,
+    "population": 149716,
+    "code": "E07000228",
+    "mortality_general": 58.11002164097358,
+    "mortality_restricted": 66.12519703972855
+  },
+  {
+    "deaths_general": 38,
+    "deaths_restricted": 53,
+    "population": 110025,
+    "code": "E07000229",
+    "mortality_general": 34.537605089752326,
+    "mortality_restricted": 48.17087025675983
+  },
+  {
+    "deaths_general": 83,
+    "deaths_restricted": 56,
+    "population": 98662,
+    "code": "E07000234",
+    "mortality_general": 84.12560053516044,
+    "mortality_restricted": 56.759441324927536
+  },
+  {
+    "deaths_general": 31,
+    "deaths_restricted": 22,
+    "population": 78113,
+    "code": "E07000235",
+    "mortality_general": 39.68609578431247,
+    "mortality_restricted": 28.164326040479818
+  },
+  {
+    "deaths_general": 63,
+    "deaths_restricted": 11,
+    "population": 84989,
+    "code": "E07000236",
+    "mortality_general": 74.12723999576416,
+    "mortality_restricted": 12.942851427831837
+  },
+  {
+    "deaths_general": 40,
+    "deaths_restricted": 36,
+    "population": 101891,
+    "code": "E07000237",
+    "mortality_general": 39.25763806420587,
+    "mortality_restricted": 35.33187425778528
+  },
+  {
+    "deaths_general": 70,
+    "deaths_restricted": 60,
+    "population": 127340,
+    "code": "E07000238",
+    "mortality_general": 54.970943929637194,
+    "mortality_restricted": 47.11795193968902
+  },
+  {
+    "deaths_general": 91,
+    "deaths_restricted": 45,
+    "population": 101062,
+    "code": "E07000239",
+    "mortality_general": 90.04373552868536,
+    "mortality_restricted": 44.52712196473452
+  },
+  {
+    "deaths_general": 159,
+    "deaths_restricted": 83,
+    "population": 248249,
+    "code": "E07000244",
+    "mortality_general": 64.04859636896825,
+    "mortality_restricted": 33.43417294732305
+  },
+  {
+    "deaths_general": 64,
+    "deaths_restricted": 24,
+    "population": 178881,
+    "code": "E07000245",
+    "mortality_general": 35.77797530201642,
+    "mortality_restricted": 13.416740738256157
+  },
+  {
+    "deaths_general": 28,
+    "deaths_restricted": 25,
+    "population": 153866,
+    "code": "E07000246",
+    "mortality_general": 18.197652502827136,
+    "mortality_restricted": 16.24790402038137
+  },
+  {
+    "deaths_general": 349,
+    "deaths_restricted": 125,
+    "population": 285372,
+    "code": "E08000001",
+    "mortality_general": 122.2965112204421,
+    "mortality_restricted": 43.80247536548785
+  },
+  {
+    "deaths_general": 273,
+    "deaths_restricted": 85,
+    "population": 190108,
+    "code": "E08000002",
+    "mortality_general": 143.60258379447473,
+    "mortality_restricted": 44.71142718875587
+  },
+  {
+    "deaths_general": 499,
+    "deaths_restricted": 103,
+    "population": 547627,
+    "code": "E08000003",
+    "mortality_general": 91.12041590352558,
+    "mortality_restricted": 18.808422521168605
+  },
+  {
+    "deaths_general": 337,
+    "deaths_restricted": 115,
+    "population": 235623,
+    "code": "E08000004",
+    "mortality_general": 143.0250866850859,
+    "mortality_restricted": 48.8067803228038
+  },
+  {
+    "deaths_general": 348,
+    "deaths_restricted": 71,
+    "population": 220001,
+    "code": "E08000005",
+    "mortality_general": 158.18109917682193,
+    "mortality_restricted": 32.272580579179184
+  },
+  {
+    "deaths_general": 301,
+    "deaths_restricted": 156,
+    "population": 254408,
+    "code": "E08000006",
+    "mortality_general": 118.31388950033018,
+    "mortality_restricted": 61.31882645199837
+  },
+  {
+    "deaths_general": 315,
+    "deaths_restricted": 138,
+    "population": 291775,
+    "code": "E08000007",
+    "mortality_general": 107.95990060834548,
+    "mortality_restricted": 47.296718361751346
+  },
+  {
+    "deaths_general": 411,
+    "deaths_restricted": 93,
+    "population": 225197,
+    "code": "E08000008",
+    "mortality_general": 182.5068717611691,
+    "mortality_restricted": 41.29717536201637
+  },
+  {
+    "deaths_general": 247,
+    "deaths_restricted": 99,
+    "population": 236370,
+    "code": "E08000009",
+    "mortality_general": 104.49718661420654,
+    "mortality_restricted": 41.883487752252826
+  },
+  {
+    "deaths_general": 532,
+    "deaths_restricted": 102,
+    "population": 326088,
+    "code": "E08000010",
+    "mortality_general": 163.14614459900395,
+    "mortality_restricted": 31.279899904320306
+  },
+  {
+    "deaths_general": 196,
+    "deaths_restricted": 42,
+    "population": 149571,
+    "code": "E08000011",
+    "mortality_general": 131.0414451999385,
+    "mortality_restricted": 28.080309685701106
+  },
+  {
+    "deaths_general": 700,
+    "deaths_restricted": 210,
+    "population": 494814,
+    "code": "E08000012",
+    "mortality_general": 141.46729882339625,
+    "mortality_restricted": 42.44018964701888
+  },
+  {
+    "deaths_general": 185,
+    "deaths_restricted": 94,
+    "population": 180049,
+    "code": "E08000013",
+    "mortality_general": 102.74980699698415,
+    "mortality_restricted": 52.20801004171087
+  },
+  {
+    "deaths_general": 409,
+    "deaths_restricted": 83,
+    "population": 275396,
+    "code": "E08000014",
+    "mortality_general": 148.5134134119595,
+    "mortality_restricted": 30.138418858661712
+  },
+  {
+    "deaths_general": 378,
+    "deaths_restricted": 185,
+    "population": 323235,
+    "code": "E08000015",
+    "mortality_general": 116.94278156759015,
+    "mortality_restricted": 57.233901031757085
+  },
+  {
+    "deaths_general": 309,
+    "deaths_restricted": 116,
+    "population": 245199,
+    "code": "E08000016",
+    "mortality_general": 126.0200898046077,
+    "mortality_restricted": 47.3085126774579
+  },
+  {
+    "deaths_general": 395,
+    "deaths_restricted": 137,
+    "population": 310542,
+    "code": "E08000017",
+    "mortality_general": 127.19696530582014,
+    "mortality_restricted": 44.11641581493003
+  },
+  {
+    "deaths_general": 350,
+    "deaths_restricted": 126,
+    "population": 264671,
+    "code": "E08000018",
+    "mortality_general": 132.2396484692316,
+    "mortality_restricted": 47.606273448923375
+  },
+  {
+    "deaths_general": 461,
+    "deaths_restricted": 335,
+    "population": 582506,
+    "code": "E08000019",
+    "mortality_general": 79.14081571691966,
+    "mortality_restricted": 57.510137234637924
+  },
+  {
+    "deaths_general": 179,
+    "deaths_restricted": 167,
+    "population": 300196,
+    "code": "E08000021",
+    "mortality_general": 59.627709896201154,
+    "mortality_restricted": 55.63032152327146
+  },
+  {
+    "deaths_general": 142,
+    "deaths_restricted": 75,
+    "population": 205985,
+    "code": "E08000022",
+    "mortality_general": 68.9370585236789,
+    "mortality_restricted": 36.410418234337456
+  },
+  {
+    "deaths_general": 134,
+    "deaths_restricted": 93,
+    "population": 150265,
+    "code": "E08000023",
+    "mortality_general": 89.17578943865837,
+    "mortality_restricted": 61.890659834292755
+  },
+  {
+    "deaths_general": 334,
+    "deaths_restricted": 195,
+    "population": 277417,
+    "code": "E08000024",
+    "mortality_general": 120.39637080640335,
+    "mortality_restricted": 70.2912943330798
+  },
+  {
+    "deaths_general": 1255,
+    "deaths_restricted": 260,
+    "population": 1141374,
+    "code": "E08000025",
+    "mortality_general": 109.95519435347222,
+    "mortality_restricted": 22.779562176814963
+  },
+  {
+    "deaths_general": 237,
+    "deaths_restricted": 85,
+    "population": 366785,
+    "code": "E08000026",
+    "mortality_general": 64.61551044890058,
+    "mortality_restricted": 23.174339190533964
+  },
+  {
+    "deaths_general": 310,
+    "deaths_restricted": 82,
+    "population": 320626,
+    "code": "E08000027",
+    "mortality_general": 96.68585828972073,
+    "mortality_restricted": 25.574968966958387
+  },
+  {
+    "deaths_general": 450,
+    "deaths_restricted": 53,
+    "population": 327378,
+    "code": "E08000028",
+    "mortality_general": 137.45578505580707,
+    "mortality_restricted": 16.18923690657283
+  },
+  {
+    "deaths_general": 231,
+    "deaths_restricted": 98,
+    "population": 214909,
+    "code": "E08000029",
+    "mortality_general": 107.4873551130944,
+    "mortality_restricted": 45.600696108585495
+  },
+  {
+    "deaths_general": 380,
+    "deaths_restricted": 103,
+    "population": 283378,
+    "code": "E08000030",
+    "mortality_general": 134.09650713887459,
+    "mortality_restricted": 36.34721114553706
+  },
+  {
+    "deaths_general": 288,
+    "deaths_restricted": 91,
+    "population": 262008,
+    "code": "E08000031",
+    "mortality_general": 109.92030777686178,
+    "mortality_restricted": 34.73176391560563
+  },
+  {
+    "deaths_general": 546,
+    "deaths_restricted": 226,
+    "population": 537173,
+    "code": "E08000032",
+    "mortality_general": 101.6432322547857,
+    "mortality_restricted": 42.072107123775766
+  },
+  {
+    "deaths_general": 145,
+    "deaths_restricted": 48,
+    "population": 210082,
+    "code": "E08000033",
+    "mortality_general": 69.02066812006741,
+    "mortality_restricted": 22.848221170780935
+  },
+  {
+    "deaths_general": 402,
+    "deaths_restricted": 142,
+    "population": 438727,
+    "code": "E08000034",
+    "mortality_general": 91.6287349536272,
+    "mortality_restricted": 32.36636906322155
+  },
+  {
+    "deaths_general": 715,
+    "deaths_restricted": 341,
+    "population": 789194,
+    "code": "E08000035",
+    "mortality_general": 90.59876278836383,
+    "mortality_restricted": 43.20864071445044
+  },
+  {
+    "deaths_general": 378,
+    "deaths_restricted": 122,
+    "population": 345038,
+    "code": "E08000036",
+    "mortality_general": 109.55315066746272,
+    "mortality_restricted": 35.35842428949855
+  },
+  {
+    "deaths_general": 193,
+    "deaths_restricted": 22,
+    "population": 211998,
+    "code": "E09000002",
+    "mortality_general": 91.03859470372362,
+    "mortality_restricted": 10.377456391098029
+  },
+  {
+    "deaths_general": 392,
+    "deaths_restricted": 102,
+    "population": 392140,
+    "code": "E09000003",
+    "mortality_general": 99.96429846483399,
+    "mortality_restricted": 26.01111847809456
+  },
+  {
+    "deaths_general": 235,
+    "deaths_restricted": 49,
+    "population": 247258,
+    "code": "E09000004",
+    "mortality_general": 95.04242532091985,
+    "mortality_restricted": 19.817356769042863
+  },
+  {
+    "deaths_general": 467,
+    "deaths_restricted": 46,
+    "population": 330795,
+    "code": "E09000005",
+    "mortality_general": 141.17504799044724,
+    "mortality_restricted": 13.905893378074035
+  },
+  {
+    "deaths_general": 276,
+    "deaths_restricted": 92,
+    "population": 331096,
+    "code": "E09000006",
+    "mortality_general": 83.35950902457293,
+    "mortality_restricted": 27.786503008190977
+  },
+  {
+    "deaths_general": 143,
+    "deaths_restricted": 23,
+    "population": 262226,
+    "code": "E09000007",
+    "mortality_general": 54.53311265854645,
+    "mortality_restricted": 8.771060077948029
+  },
+  {
+    "deaths_general": 412,
+    "deaths_restricted": 117,
+    "population": 385346,
+    "code": "E09000008",
+    "mortality_general": 106.9169006555148,
+    "mortality_restricted": 30.362323729842792
+  },
+  {
+    "deaths_general": 331,
+    "deaths_restricted": 124,
+    "population": 341982,
+    "code": "E09000009",
+    "mortality_general": 96.78871987414543,
+    "mortality_restricted": 36.25921832143212
+  },
+  {
+    "deaths_general": 322,
+    "deaths_restricted": 96,
+    "population": 333869,
+    "code": "E09000010",
+    "mortality_general": 96.44501286432703,
+    "mortality_restricted": 28.75379265520309
+  },
+  {
+    "deaths_general": 218,
+    "deaths_restricted": 28,
+    "population": 286186,
+    "code": "E09000011",
+    "mortality_general": 76.17423633580958,
+    "mortality_restricted": 9.783846868819579
+  },
+  {
+    "deaths_general": 117,
+    "deaths_restricted": 64,
+    "population": 185426,
+    "code": "E09000013",
+    "mortality_general": 63.09794742916312,
+    "mortality_restricted": 34.5151165424482
+  },
+  {
+    "deaths_general": 266,
+    "deaths_restricted": 26,
+    "population": 270624,
+    "code": "E09000014",
+    "mortality_general": 98.29135627291001,
+    "mortality_restricted": 9.607425801111505
+  },
+  {
+    "deaths_general": 369,
+    "deaths_restricted": 51,
+    "population": 250149,
+    "code": "E09000015",
+    "mortality_general": 147.512082798652,
+    "mortality_restricted": 20.387848842090115
+  },
+  {
+    "deaths_general": 329,
+    "deaths_restricted": 50,
+    "population": 257810,
+    "code": "E09000016",
+    "mortality_general": 127.61335867499321,
+    "mortality_restricted": 19.394127458205656
+  },
+  {
+    "deaths_general": 263,
+    "deaths_restricted": 74,
+    "population": 304824,
+    "code": "E09000017",
+    "mortality_general": 86.27929559352282,
+    "mortality_restricted": 24.27630370312049
+  },
+  {
+    "deaths_general": 239,
+    "deaths_restricted": 35,
+    "population": 270782,
+    "code": "E09000018",
+    "mortality_general": 88.26288305721945,
+    "mortality_restricted": 12.9255268075426
+  },
+  {
+    "deaths_general": 124,
+    "deaths_restricted": 39,
+    "population": 239142,
+    "code": "E09000019",
+    "mortality_general": 51.85203770144935,
+    "mortality_restricted": 16.308302180294554
+  },
+  {
+    "deaths_general": 109,
+    "deaths_restricted": 30,
+    "population": 156197,
+    "code": "E09000020",
+    "mortality_general": 69.78367062107466,
+    "mortality_restricted": 19.206514849837063
+  },
+  {
+    "deaths_general": 109,
+    "deaths_restricted": 38,
+    "population": 175470,
+    "code": "E09000021",
+    "mortality_general": 62.11888072035106,
+    "mortality_restricted": 21.656123553883855
+  },
+  {
+    "deaths_general": 265,
+    "deaths_restricted": 34,
+    "population": 325917,
+    "code": "E09000022",
+    "mortality_general": 81.30904494088986,
+    "mortality_restricted": 10.43210387920851
+  },
+  {
+    "deaths_general": 276,
+    "deaths_restricted": 30,
+    "population": 303536,
+    "code": "E09000023",
+    "mortality_general": 90.92825892151178,
+    "mortality_restricted": 9.88350640451215
+  },
+  {
+    "deaths_general": 185,
+    "deaths_restricted": 34,
+    "population": 206186,
+    "code": "E09000024",
+    "mortality_general": 89.72481157789568,
+    "mortality_restricted": 16.48996537107272
+  },
+  {
+    "deaths_general": 295,
+    "deaths_restricted": 49,
+    "population": 352005,
+    "code": "E09000025",
+    "mortality_general": 83.8056277609693,
+    "mortality_restricted": 13.920256814533886
+  },
+  {
+    "deaths_general": 358,
+    "deaths_restricted": 42,
+    "population": 303858,
+    "code": "E09000026",
+    "mortality_general": 117.8181913920318,
+    "mortality_restricted": 13.822245917500936
+  },
+  {
+    "deaths_general": 120,
+    "deaths_restricted": 45,
+    "population": 196904,
+    "code": "E09000027",
+    "mortality_general": 60.943403892252064,
+    "mortality_restricted": 22.853776459594524
+  },
+  {
+    "deaths_general": 195,
+    "deaths_restricted": 63,
+    "population": 317256,
+    "code": "E09000028",
+    "mortality_general": 61.46455858990846,
+    "mortality_restricted": 19.85778046750889
+  },
+  {
+    "deaths_general": 152,
+    "deaths_restricted": 44,
+    "population": 204525,
+    "code": "E09000029",
+    "mortality_general": 74.31854296540764,
+    "mortality_restricted": 21.513262437354847
+  },
+  {
+    "deaths_general": 181,
+    "deaths_restricted": 32,
+    "population": 317705,
+    "code": "E09000030",
+    "mortality_general": 56.97108953274264,
+    "mortality_restricted": 10.072236823468312
+  },
+  {
+    "deaths_general": 254,
+    "deaths_restricted": 24,
+    "population": 276700,
+    "code": "E09000031",
+    "mortality_general": 91.79616913624865,
+    "mortality_restricted": 8.673653776653415
+  },
+  {
+    "deaths_general": 194,
+    "deaths_restricted": 33,
+    "population": 326474,
+    "code": "E09000032",
+    "mortality_general": 59.422802428371014,
+    "mortality_restricted": 10.10800247492909
+  },
+  {
+    "deaths_general": 167,
+    "deaths_restricted": 32,
+    "population": 255324,
+    "code": "E09000033",
+    "mortality_general": 65.40709059861196,
+    "mortality_restricted": 12.533095204524447
+  },
+  {
+    "deaths_general": 32,
+    "deaths_restricted": 4,
+    "population": 69961,
+    "code": "W06000001",
+    "mortality_general": 45.739769300038596,
+    "mortality_restricted": 5.7174711625048245
+  },
+  {
+    "deaths_general": 58,
+    "deaths_restricted": 20,
+    "population": 124178,
+    "code": "W06000002",
+    "mortality_general": 46.707146193367585,
+    "mortality_restricted": 16.10591248047158
+  },
+  {
+    "deaths_general": 98,
+    "deaths_restricted": 18,
+    "population": 117181,
+    "code": "W06000003",
+    "mortality_general": 83.6313054164071,
+    "mortality_restricted": 15.360852015258445
+  },
+  {
+    "deaths_general": 105,
+    "deaths_restricted": 32,
+    "population": 95330,
+    "code": "W06000004",
+    "mortality_general": 110.14371131857757,
+    "mortality_restricted": 33.56760725899507
+  },
+  {
+    "deaths_general": 154,
+    "deaths_restricted": 28,
+    "population": 155593,
+    "code": "W06000005",
+    "mortality_general": 98.97617502072715,
+    "mortality_restricted": 17.995668185586755
+  },
+  {
+    "deaths_general": 127,
+    "deaths_restricted": 21,
+    "population": 136126,
+    "code": "W06000006",
+    "mortality_general": 93.2959170180568,
+    "mortality_restricted": 15.426883916371597
+  },
+  {
+    "deaths_general": 16,
+    "deaths_restricted": 10,
+    "population": 72992,
+    "code": "W06000008",
+    "mortality_general": 21.920210434020166,
+    "mortality_restricted": 13.700131521262604
+  },
+  {
+    "deaths_general": 39,
+    "deaths_restricted": 8,
+    "population": 125055,
+    "code": "W06000009",
+    "mortality_general": 31.186278037663428,
+    "mortality_restricted": 6.397185238495063
+  },
+  {
+    "deaths_general": 76,
+    "deaths_restricted": 46,
+    "population": 187568,
+    "code": "W06000010",
+    "mortality_general": 40.51863857374392,
+    "mortality_restricted": 24.52443913673974
+  },
+  {
+    "deaths_general": 205,
+    "deaths_restricted": 90,
+    "population": 246466,
+    "code": "W06000011",
+    "mortality_general": 83.17577272321537,
+    "mortality_restricted": 36.51619290287504
+  },
+  {
+    "deaths_general": 119,
+    "deaths_restricted": 57,
+    "population": 142906,
+    "code": "W06000012",
+    "mortality_general": 83.2715211397702,
+    "mortality_restricted": 39.88635886526808
+  },
+  {
+    "deaths_general": 149,
+    "deaths_restricted": 38,
+    "population": 144876,
+    "code": "W06000013",
+    "mortality_general": 102.84657224108892,
+    "mortality_restricted": 26.22932714873409
+  },
+  {
+    "deaths_general": 109,
+    "deaths_restricted": 31,
+    "population": 132165,
+    "code": "W06000014",
+    "mortality_general": 82.47266674232966,
+    "mortality_restricted": 23.4555290735066
+  },
+  {
+    "deaths_general": 303,
+    "deaths_restricted": 156,
+    "population": 364248,
+    "code": "W06000015",
+    "mortality_general": 83.18508269091387,
+    "mortality_restricted": 42.82796336561903
+  },
+  {
+    "deaths_general": 400,
+    "deaths_restricted": 124,
+    "population": 240131,
+    "code": "W06000016",
+    "mortality_general": 166.5757440730268,
+    "mortality_restricted": 51.638480662638315
+  },
+  {
+    "deaths_general": 181,
+    "deaths_restricted": 34,
+    "population": 181019,
+    "code": "W06000018",
+    "mortality_general": 99.98950386423526,
+    "mortality_restricted": 18.78255873692817
+  },
+  {
+    "deaths_general": 87,
+    "deaths_restricted": 28,
+    "population": 69713,
+    "code": "W06000019",
+    "mortality_general": 124.79738355830332,
+    "mortality_restricted": 40.16467516818958
+  },
+  {
+    "deaths_general": 101,
+    "deaths_restricted": 19,
+    "population": 93049,
+    "code": "W06000020",
+    "mortality_general": 108.54496018226956,
+    "mortality_restricted": 20.419348945179422
+  },
+  {
+    "deaths_general": 72,
+    "deaths_restricted": 30,
+    "population": 94142,
+    "code": "W06000021",
+    "mortality_general": 76.4802107454696,
+    "mortality_restricted": 31.866754477279006
+  },
+  {
+    "deaths_general": 139,
+    "deaths_restricted": 63,
+    "population": 153302,
+    "code": "W06000022",
+    "mortality_general": 90.67070227394294,
+    "mortality_restricted": 41.09535426804608
+  },
+  {
+    "deaths_general": 71,
+    "deaths_restricted": 53,
+    "population": 132447,
+    "code": "W06000023",
+    "mortality_general": 53.606348199657226,
+    "mortality_restricted": 40.016006402561025
+  },
+  {
+    "deaths_general": 82,
+    "deaths_restricted": 38,
+    "population": 60183,
+    "code": "W06000024",
+    "mortality_general": 136.25110080919862,
+    "mortality_restricted": 63.14075403353106
+  },
+  {
+    "deaths_general": 154,
+    "deaths_restricted": 72,
+    "population": 568210,
+    "code": "E06000052",
+    "mortality_general": 27.10265570827687,
+    "mortality_restricted": 12.671371499973601
+  },
+  {
+    "deaths_general": 233,
+    "deaths_restricted": 24,
+    "population": 288371,
+    "code": "E09000012",
+    "mortality_general": 80.79869334988608,
+    "mortality_restricted": 8.322612190546206
+  },
+  {
+    "deaths_general": 299,
+    "deaths_restricted": 139,
+    "population": 651482,
+    "code": "E10000003",
+    "mortality_general": 45.89535858243205,
+    "mortality_restricted": 21.335969374441657
+  },
+  {
+    "deaths_general": 301,
+    "deaths_restricted": 144,
+    "population": 1184365,
+    "code": "E10000015",
+    "mortality_general": 25.414462602322764,
+    "mortality_restricted": 12.158414002440127
+  },
+  {
+    "deaths_general": 712,
+    "deaths_restricted": 589,
+    "population": 729488,
+    "code": "E06000047",
+    "mortality_general": 97.60270216919264,
+    "mortality_restricted": 80.74156120457087
+  }
+]
