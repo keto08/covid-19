@@ -1,0 +1,15 @@
+Ethnicity,Age group,Estimate,Lower confidence limit,Upper confidence limit
+Black,Male,47.3,41.4,53.1
+Black,Female,24.8,21,28.7
+Bangladeshi/Pakistani,Male,43.8,36.8,50.8
+Bangladeshi/Pakistani,Female,21.7,17,27.3
+Other ethnic group,Male,35.6,29.5,41.8
+Other ethnic group,Female,14.1,10.5,18.4
+Indian,Male,35.2,29.7,40.7
+Indian,Female,14.8,11.5,18.7
+Chinese,Male,14.8,8.2,24.7
+Chinese,Female,null,null,null
+Mixed/ Multiple ethnic groups,Male,12.7,7.9,19.4
+Mixed/ Multiple ethnic groups,Female,9.7,6.1,14.6
+White,Male,10.1,9.6,10.6
+White,Female,5.9,5.6,6.3
